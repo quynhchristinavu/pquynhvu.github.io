@@ -17,12 +17,10 @@ avatar_filename: avatar.jpg
 #bio: Senior Researcher (Hitachi, Ltd., Japan), Honorary Research Fellow
   #(University of Sussex, UK), Adjunct Professor (OntarioTech University, Canada)
 interests:
-  - Computational trust
-  - Artificial Intelligence
-  - Privacy and security
-  - Distributed systems
-  - Indian classical music
-  - Photography
+  - Bayesian Statistics 
+  - Probabilistic Machine Learning
+  - Markov Chain Monte Carlo (MCMC)
+  - Uncertainty Quantification (UQ)
 social:
   - icon: linkedin
     icon_pack: fab
@@ -67,33 +65,28 @@ social:
     icon: facebook
     label: Facebook
 organizations:
-  - name: Hitachi R&D
-    url: http://www.hitachi.com/rd/
-  - name: University of Sussex
-    url: https://profiles.sussex.ac.uk/p134568-anirban-basu/
-  - name: OntarioTech University
-    url: https://businessandit.ontariotechu.ca/people/adjunct-professors/index.php
-  - name: IFIP WG 11.11 Trust Management
-    url: http://www.ifiptm.org/
+  - name: Univeristy of Florida
+    url: https://stat.ufl.edu/
 education:
   courses:
-    - course: Doctor of Philosophy (DPhil) in Computer Science and Artificial
-        Intelligence
-      institution: University of Sussex
-      year: 2010
-    - course: Bachelor of Engineering (BEng) in Computer Systems Engineering
-      institution: University of Sussex
-      year: 2004
-email: ""
+    - course: Ph.D. in Statistics 
+      institution: University of Florida
+      year: 2024 - Present
+    - course: M.Sc. in Statistics
+      institution: University of Toronto
+      year: 2022-2023
+    - course: B.A. in Statistics (with Honours)
+      institution: York University
+      year: 2018-2021
 
+email: ""
 ---
-## About me
 <div style='text-align: justify'>
-With more than a decade of research experience within both academia and industry, I have co-authored 70+ research papers and 30+ Japanese patents. My publications have been cited more than 2,200 times setting my overall h-index to 23 (source: Google Scholar). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security and privacy. The areas of research that interest me include, but are not limited to computational trust systems, AI security, AI ethics and causal modelling, distributed consensus, privacy and risk, and privacy preserving data mining. I like working on complex problems that require multi-disciplinary approaches. Outside research and the related stuff, I am keen on photography, videography and the associated travels.
+I am a Ph.D. student in the Department of Statistics at the University of Florida (UFL). Prior to joining UFL, I completed my bachelor's and master's degrees in Canada. My current research interests lie at the interface of Bayesian statistics, assumption-free prediction, and uncertainty quantification. In particular, I aim to develop statistical methods that address inferential challenges induced by computational constraints for high-dimensional data and varying-dimension parameter space in Bayesian framework. In my past life, I had conducted research on Markov Chain Monte Carlo, agent-based modeling, and variational Bayes. 
+  
+Non-academic-wise, I am passionate about improving statistical communication and overall statistical literacy and increasing the representation of women in STEM and other quantitative fields. Outside of work, I enjoy reading, crocheting, and hiking, and I am also a coffee enthusiast!
 </div>
 
-## Quick links
+My full CV can be found [here](/files/cv.pdf).
 
-* 2-pages ***curriculum vitae / résumé*** [[PDF](/files/cv.pdf)],
-* a ***full list of publications, grouped by year*** [[PDF](/files/publications-by-year.pdf)], and
-* a ***full list of publications, grouped by type*** [[PDF](/files/publications-by-type.pdf)].
+
