@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: nord
-  theme_night: nord
+  theme_day: minimal #nord
+  theme_night: minimal #nord
   font: minimal
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Researcher in Computational Trust, Privacy and Security.'
-    twitter: 'xtremebytes'
+    description: 'Ph.D. student'
+    twitter: 'pquynhvu'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '&copy; {year} Anirban Basu.' # This work is licensed under {license}'
+    notice: '&copy; {year} Quynh (Christina) Vu. All rights reserved.' # This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
@@ -65,6 +65,7 @@ features:
     extra_languages:
       - r
       - latex
+      - python
   math:
     enable: true
   diagram:
@@ -101,7 +102,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
