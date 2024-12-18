@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 15
+  - name: Contact me
+    url: '#contact'
+    weight: 20
   #- name: Teaching
     #url: '#teaching'
     #weight: 20
@@ -28,6 +31,4 @@ main:
   #- name: CV (PDF)
     #url: files/cv.pdf
     #weight: 100
-  - name: Contact me
-    url: '#contact'
-    weight: 10
+  
