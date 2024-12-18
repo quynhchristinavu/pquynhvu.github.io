@@ -1,9 +1,21 @@
 ---
-title: Anirban Basu
-role: Researcher in Computational Trust, Privacy and Security
+# Display name
+title: Quynh Vu
+
+# Full name (for SEO)
+first_name: Quynh
+last_name: Vu
+
+name_pronunciation: # Name pronunciation (optional)
+superuser: true # Is this the primary user of the site?
+highlight_name: true # Highlight the author in author lists? (true/false)
+
+# Role/position/tagline
+role: Ph.D. student
 avatar_filename: avatar.jpg
-bio: Senior Researcher (Hitachi, Ltd., Japan), Honorary Research Fellow
-  (University of Sussex, UK), Adjunct Professor (OntarioTech University, Canada)
+
+#bio: Senior Researcher (Hitachi, Ltd., Japan), Honorary Research Fellow
+  #(University of Sussex, UK), Adjunct Professor (OntarioTech University, Canada)
 interests:
   - Computational trust
   - Artificial Intelligence
@@ -76,6 +88,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+## About me
 <div style='text-align: justify'>
 With more than a decade of research experience within both academia and industry, I have co-authored 70+ research papers and 30+ Japanese patents. My publications have been cited more than 2,200 times setting my overall h-index to 23 (source: Google Scholar). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security and privacy. The areas of research that interest me include, but are not limited to computational trust systems, AI security, AI ethics and causal modelling, distributed consensus, privacy and risk, and privacy preserving data mining. I like working on complex problems that require multi-disciplinary approaches. Outside research and the related stuff, I am keen on photography, videography and the associated travels.
 </div>
