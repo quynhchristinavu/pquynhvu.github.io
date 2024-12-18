@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '#publications'
     weight: 15
-  - name: News:
+  - name: News
     url: '#updates'
     weight: 20
   - name: Contact me
