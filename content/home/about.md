@@ -3,7 +3,7 @@ widget: about
 widget_id: summary
 headless: true
 weight: 20
-title: Summary
+title: About me
 active: true
 author: admin
 ---
