@@ -16,57 +16,80 @@ avatar_filename: avatar.jpg
 
 #bio: Senior Researcher (Hitachi, Ltd., Japan), Honorary Research Fellow
   #(University of Sussex, UK), Adjunct Professor (OntarioTech University, Canada)
-
-organizations:
-  - name: Univeristy of Florida
-    url: https://stat.ufl.edu/
-
-profiles:
-  - icon: envelope
-    icon_pack: fas
-    url: 'mailto:pquynhvu@outlook.com'
-  - icon: brands/x
-    url: https://x.com/pquynhvu
-  #- icon: "custom/Bluesky_Logo"
-    #url: https://bsky.app/profile/pquynhvu.bsky.social
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/pquynhvu/
-  - icon: brands/github
-    url: https://github.com/pquynhvu
-  #- icon: academicons/google-scholar
-    #url: https://scholar.google.com/
-
 interests:
-  - Bayesian Statistics 
-  - Probabilistic Machine Learning
-  - Markov Chain Monte Carlo (MCMC)
-  - Uncertainty Quantification (UQ)
-
+  - Computational trust
+  - Artificial Intelligence
+  - Privacy and security
+  - Distributed systems
+  - Indian classical music
+  - Photography
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/anirbanbasu/
+    label: LinkedIn profile
+  - display:
+      header: false
+    icon_pack: fab
+    icon: orcid
+    label: Orcid ID
+    link: https://orcid.org/0000-0001-5438-0959
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=XHB3pcYAAAAJ
+    label: Google Scholar
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/xtremebytes
+    label: "Twitter: xtremebytes"
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Anirban_Basu5
+    icon_pack: ai
+    icon: researchgate
+    label: ResearchGate profile
+  - display:
+      header: false
+    icon_pack: fab
+    icon: github
+    label: Github profile
+    link: https://github.com/anirbanbasu
+  - display:
+      header: false
+    link: https://www.instagram.com/anirban_basu/
+    icon_pack: fab
+    icon: instagram
+    label: instagram profile
+  - display:
+      header: false
+    link: https://www.facebook.com/anirban.basu/
+    icon_pack: fab
+    icon: facebook
+    label: Facebook
+organizations:
+  - name: Hitachi R&D
+    url: http://www.hitachi.com/rd/
+  - name: University of Sussex
+    url: https://profiles.sussex.ac.uk/p134568-anirban-basu/
+  - name: OntarioTech University
+    url: https://businessandit.ontariotechu.ca/people/adjunct-professors/index.php
+  - name: IFIP WG 11.11 Trust Management
+    url: http://www.ifiptm.org/
 education:
-  - area: Ph.D. in Statistics 
-    institution: University of Florida
-    year: 2024 - Present
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
-    # summary: |
-      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-      # text: 'Read Thesis'
-      # url: 'https://example.com'
-  - area: M.Sc. in Statistics
-    institution: University of Toronto
-    year: 2022-2023
-  - area: B.A. in Statistics (with Honours)
-    institution: York University
-    year: 2018-2021
-
+  courses:
+    - course: Doctor of Philosophy (DPhil) in Computer Science and Artificial
+        Intelligence
+      institution: University of Sussex
+      year: 2010
+    - course: Bachelor of Engineering (BEng) in Computer Systems Engineering
+      institution: University of Sussex
+      year: 2004
 email: ""
+
 ---
 ## About me
 <div style='text-align: justify'>
-I am a Ph.D. student in the Department of Statistics at the University of Florida (UFL). Prior to joining UFL, I completed my bachelor's and master's degrees in Canada. My current research interests lie at the interface of Bayesian statistics, assumption-free prediction, and uncertainty quantification. In particular, I aim to develop statistical methods that address inferential challenges induced by computational constraints for high-dimensional data and varying-dimension parameter space in Bayesian framework. In my past life, I had conducted research on Markov Chain Monte Carlo, agent-based modeling, and variational Bayes. 
-  
-Non-academic-wise, I am passionate about improving statistical communication and overall statistical literacy and increasing the representation of women in STEM and other quantitative fields. Outside of work, I enjoy reading, crocheting, and hiking, and I am also a coffee enthusiast!
+With more than a decade of research experience within both academia and industry, I have co-authored 70+ research papers and 30+ Japanese patents. My publications have been cited more than 2,200 times setting my overall h-index to 23 (source: Google Scholar). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security and privacy. The areas of research that interest me include, but are not limited to computational trust systems, AI security, AI ethics and causal modelling, distributed consensus, privacy and risk, and privacy preserving data mining. I like working on complex problems that require multi-disciplinary approaches. Outside research and the related stuff, I am keen on photography, videography and the associated travels.
 </div>
 
 ## Quick links
