@@ -10,32 +10,31 @@ headless: true
 weight: 40
 
 title: Publications
-subtitle: Published/Accepted
+subtitle: 
 
-content:
-  # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 2
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-design:
-  # Choose a view for the listings:
-  view: 3
-  columns: '2'
+sections:
+  - block: collection
+    id: publications
+    content:
+      title: Published
+      text: |-
+            {{% callout note %}}
+            Quickly discover relevant content by [filtering publications](./submitted_paper/).
+            {{% /callout %}}
+      filters:
+        folders:
+          - submitted_paper
+        tag: ''
+        category: ''
+        publication_type: ''
+        author: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      count: 2 # Choose how many pages you would like to display (0 = all pages)
+    offset: 0 # Choose how many pages you would like to offset by
+    order: desc # Page order: descending (desc) or ascending (asc) date.
+  design:
+    view: 3 # Choose a view for the listings:
+    columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
