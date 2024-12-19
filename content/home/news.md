@@ -1,15 +1,12 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: pages
+widget_id: updates
 
-# This file represents a page section.
-headless: true
+headless: true # This file represents a page section.
+weight: 60 # Order that this section appears on the page.
 
-# Order that this section appears on the page.
-weight: 60
-
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Updates'
 subtitle:
 
