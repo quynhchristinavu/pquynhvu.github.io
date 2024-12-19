@@ -14,6 +14,7 @@ subtitle:
 
 content:
   # Filter on criteria
+  title: Published/Accepted
   filters:
     folders:
       - publication
