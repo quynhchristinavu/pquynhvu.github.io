@@ -32,7 +32,7 @@ item:
   title: Neural Networks and Deep Learning
   url: ""
 
-widget_id: updates
+weight: 60
 view: 1
 design:
   columns: '2' 
