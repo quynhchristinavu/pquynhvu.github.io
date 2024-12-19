@@ -22,48 +22,20 @@ interests:
   - Markov Chain Monte Carlo (MCMC)
   - Uncertainty Quantification (UQ)
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/anirbanbasu/
-    label: LinkedIn profile
-  - display:
-      header: false
-    icon_pack: fab
-    icon: orcid
-    label: Orcid ID
-    link: https://orcid.org/0000-0001-5438-0959
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=XHB3pcYAAAAJ
-    label: Google Scholar
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/xtremebytes
-    label: "Twitter: xtremebytes"
-  - display:
-      header: false
-    link: https://www.researchgate.net/profile/Anirban_Basu5
-    icon_pack: ai
-    icon: researchgate
-    label: ResearchGate profile
-  - display:
-      header: false
-    icon_pack: fab
-    icon: github
-    label: Github profile
-    link: https://github.com/anirbanbasu
-  - display:
-      header: false
-    link: https://www.instagram.com/anirban_basu/
-    icon_pack: fab
-    icon: instagram
-    label: instagram profile
-  - display:
-      header: false
-    link: https://www.facebook.com/anirban.basu/
-    icon_pack: fab
-    icon: facebook
-    label: Facebook
+  - icon: envelope
+    icon_pack: fas
+    url: 'mailto:pquynhvu@outlook.com'
+  - icon: brands/x
+    url: https://x.com/pquynhvu
+  #- icon: "custom/Bluesky_Logo"
+    #url: https://bsky.app/profile/pquynhvu.bsky.social
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/pquynhvu/
+  - icon: brands/github
+    url: https://github.com/pquynhvu
+  #- icon: academicons/google-scholar
+    #url: https://scholar.google.com/
+  
 organizations:
   - name: Univeristy of Florida
     url: https://stat.ufl.edu/
@@ -87,6 +59,6 @@ I am a Ph.D. student in the Department of Statistics at the University of Florid
 Non-academic-wise, I am passionate about improving statistical communication and overall statistical literacy and increasing the representation of women in STEM and other quantitative fields. Outside of work, I enjoy reading, crocheting, and hiking, and I am also a coffee enthusiast!
 </div>
 
-My full CV can be found [here](/files/cv.pdf).
+My full CV can be found [here](./files/resume.pdf).
 
 
