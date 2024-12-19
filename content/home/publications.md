@@ -16,11 +16,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Published
-      text: |-
-            {{% callout note %}}
-            Quickly discover relevant content by [filtering publications](./submitted_paper/).
-            {{% /callout %}}
+      title: Published/Accepted
       filters:
         folders:
           - submitted_paper
