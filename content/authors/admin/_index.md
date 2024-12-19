@@ -24,7 +24,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:pquynhvu@outlook.com'
+    url: mailto:pquynhvu@outlook.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/pquynhvu/
