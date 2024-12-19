@@ -10,11 +10,10 @@ headless: true
 weight: 40
 
 title: Publications
-subtitle: 
+subtitle: Published/Accepted
 
 content:
   # Filter on criteria
-  title: Published/Accepted
   filters:
     folders:
       - publication
