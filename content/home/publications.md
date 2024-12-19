@@ -10,7 +10,7 @@ title: Publications
 subtitle: 
 
 sections:
-  - block: collection
+  block: collection
     id: publications
     content:
       title: Published/Accepted
