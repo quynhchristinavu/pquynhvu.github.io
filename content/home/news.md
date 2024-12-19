@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Updates'
@@ -32,7 +32,6 @@ item:
   title: Neural Networks and Deep Learning
   url: ""
 
-weight: 60
 view: 1
 design:
   columns: '2' 
