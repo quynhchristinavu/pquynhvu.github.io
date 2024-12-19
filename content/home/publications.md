@@ -3,40 +3,29 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-publications:
-  - title: Published/Accepted
-    filters:
-      folders:
-        - submitted_paper
-      tag: ''
-      category: ''
-      publication_type: ''
-      author: ''
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-    count: 2 # Choose how many pages you would like to display (0 = all pages)
-    offset: 0 # Choose how many pages you would like to offset by
-    order: desc # Page order: descending (desc) or ascending (asc) date.
-  - title: Submitted
-    filters:
-      folders:
-        - publication
-      tag: ''
-      category: ''
-      publication_type: ''
-      author: ''
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-    count: 2 # Choose how many pages you would like to display (0 = all pages)
-    offset: 0 # Choose how many pages you would like to offset by
-    order: desc # Page order: descending (desc) or ascending (asc) date.
+# This file represents a page section.
+headless: true
 
-widget_id: publications
-title: Education
-headless: true # This file represents a page section.
+# Order that this section appears on the page.
 weight: 40
+
+title: Publications
+subtitle: 
+
+content:
+  filters:
+    folders:
+      - submitted_paper
+    tag: 'Submitted'
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  count: 2 # Choose how many pages you would like to display (0 = all pages)
+  offset: 0 # Choose how many pages you would like to offset by
+  order: desc # Page order: descending (desc) or ascending (asc) date.
 design:
   view: 3 # Choose a view for the listings:
   columns: '2'
