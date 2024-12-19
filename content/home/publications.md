@@ -10,13 +10,13 @@ title: Publications
 subtitle: 
 
 sections:
-  block: collection
+  - block: collection
     id: publications
     content:
       title: Published/Accepted
       filters:
         folders:
-          - submitted_paper
+          -submitted_paper
         tag: ''
         category: ''
         publication_type: ''
