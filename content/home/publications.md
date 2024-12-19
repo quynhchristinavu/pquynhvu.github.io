@@ -1,13 +1,11 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: publications
+widget: pages 
+widget_id: publications
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
+headless: true # This file represents a page section.
+weight: 40 # Order that this section appears on the page.
 
 title: Publications
 subtitle: 
@@ -15,7 +13,7 @@ subtitle:
 content:
   filters:
     folders:
-      - submitted_paper
+      - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -27,7 +25,7 @@ content:
   offset: 0 # Choose how many pages you would like to offset by
   order: desc # Page order: descending (desc) or ascending (asc) date.
 design:
-  view: 3 # Choose a view for the listings:
+  view: 3 # Choose a view for the listings
   columns: '2'
 ---
 
