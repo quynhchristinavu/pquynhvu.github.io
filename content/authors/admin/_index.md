@@ -25,19 +25,24 @@ social:
   - icon: envelope
     icon_pack: fas
     url: 'mailto:pquynhvu@outlook.com'
-  - icon: x
-    icon_pack: brands
-    url: https://x.com/pquynhvu
-  #- icon: "custom/Bluesky_Logo"
-    #url: https://bsky.app/profile/pquynhvu.bsky.social
   - icon: linkedin
     icon_pack: fab
-    url: https://www.linkedin.com/in/pquynhvu/
-  - icon: github
+    link: https://www.linkedin.com/in/pquynhvu/
+    label: LinkedIn profile
+  #- icon: google-scholar
+    #icon_pack: ai
+    #link: https://scholar.google.co.uk/citations?user=XHB3pcYAAAAJ
+    #label: Google Scholar
+  - icon: twitter
     icon_pack: fab
-    url: https://github.com/pquynhvu
-  #- icon: academicons/google-scholar
-    #url: https://scholar.google.com/
+    link: https://x.com/pquynhvu
+    #label: "Twitter: xtremebytes"
+  - display:
+      header: false
+    icon_pack: fab
+    icon: github
+    label: Github profile
+    link: https://github.com/pquynhvu
   #- display:
       #header: false
     #link: https://www.researchgate.net/profile/Anirban_Basu5
