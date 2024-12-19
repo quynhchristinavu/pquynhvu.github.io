@@ -13,9 +13,12 @@ main:
   - name: News
     url: '#updates'
     weight: 20
+  - name: Blog
+    url: '#blog'
+    weight: 25
   - name: Contact me
     url: '#contact'
-    weight: 25
+    weight: 30
   #- name: Teaching
     #url: '#teaching'
     #weight: 20
