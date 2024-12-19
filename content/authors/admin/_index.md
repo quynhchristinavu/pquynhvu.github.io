@@ -25,17 +25,26 @@ social:
   - icon: envelope
     icon_pack: fas
     url: 'mailto:pquynhvu@outlook.com'
-  - icon: brands/x
+  - icon: x
+    icon_pack: brands
     url: https://x.com/pquynhvu
   #- icon: "custom/Bluesky_Logo"
     #url: https://bsky.app/profile/pquynhvu.bsky.social
-  - icon: brands/linkedin
+  - icon: linkedin
+    icon_pack: fab
     url: https://www.linkedin.com/in/pquynhvu/
-  - icon: brands/github
+  - icon: github
+    icon_pack: fab
     url: https://github.com/pquynhvu
   #- icon: academicons/google-scholar
     #url: https://scholar.google.com/
-  
+  #- display:
+      #header: false
+    #link: https://www.researchgate.net/profile/Anirban_Basu5
+    #icon_pack: ai
+    #icon: researchgate
+    #label: ResearchGate profile
+
 organizations:
   - name: Univeristy of Florida
     url: https://stat.ufl.edu/
