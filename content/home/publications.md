@@ -16,7 +16,6 @@ content:
   filters:
     folders:
       - submitted_paper
-    title: Submitted
     tag: ''
     category: ''
     publication_type: ''
