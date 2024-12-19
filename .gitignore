@@ -4,6 +4,6 @@ assets/jsconfig.json
 public/
 resources/_gen
 exampleSite/
-content/home/experience.md
+#content/home/experience.md
 content/home/teaching.md
-content/home/projects.md
+#content/home/projects.md
