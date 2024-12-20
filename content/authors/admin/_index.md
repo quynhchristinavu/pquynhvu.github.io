@@ -72,9 +72,9 @@ email: ""
     #container>div {display:inline-block; margin:.2em 0; background:#fca;}
 </style>
 <div style='text-align: justify'>
-I am a Ph.D. student in the Department of Statistics at the University of Florida (UFL). Prior to joining UFL, I completed my bachelor's and master's degrees in Canada. My current research interests lie at the interface of Bayesian statistics, assumption-free prediction, and uncertainty quantification. In particular, I aim to develop statistical methods that address inferential challenges induced by computational constraints for high-dimensional data and varying-dimension parameter space in Bayesian framework. In my past life, I had conducted research on Markov Chain Monte Carlo, agent-based modeling, and variational Bayes. <br/><br/>
+I am a Ph.D. student in the Department of Statistics at the University of Florida (UFL). Prior to joining UFL, I completed my bachelor's and master's degrees in Canada. My current research interests lie at the interface of Bayesian statistics, assumption-free prediction, and uncertainty quantification. In particular, I aim to develop statistical methods that address inferential challenges induced by computational constraints for high-dimensional data and varying-dimension parameter space in Bayesian framework. In my past life, I had conducted research on Markov Chain Monte Carlo, agent-based modeling, and variational Bayes. <br/>
 
-Non-academic-wise, I am passionate about improving statistical communication and overall statistical literacy and increasing the representation of women in STEM and other quantitative fields. Outside of work, I enjoy reading, crocheting, and hiking, and I am also a coffee enthusiast! <br/><br/>
+Non-academic-wise, I am passionate about improving statistical communication and overall statistical literacy and increasing the representation of women in STEM and other quantitative fields. Outside of work, I enjoy reading, crocheting, and hiking, and I am also a coffee enthusiast! <br/>
 
 My full CV can be found [here](./files/resume.pdf).
 </div>
