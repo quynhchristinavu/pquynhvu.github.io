@@ -27,3 +27,5 @@ design:
 </div>
 
 ##### Complete list of updates is available [here](./updates/).
+
+[research poster](./files/COVID_poster.pdf) 
