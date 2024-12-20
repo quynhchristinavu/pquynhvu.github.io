@@ -26,4 +26,4 @@ design:
 <li> <b> 01 April, 2024: </b> I left Canada after six years. Toronto, you'll be dearly missed. Stay tuned to see what future awaits me! </li>
 </div>
 
-* Complete list of updates is available [here](/updates/).
+#### Complete list of updates is available [here](/updates/).
