@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Updates
+title: Latest updates
 subtitle:
 
 design:
   columns: '2'
 
 ---
-## 2025 
+## 2025
 
 ## 2024 
 
@@ -26,12 +26,4 @@ design:
 <li> <b> 01 April, 2024: </b> I left Canada after six years. Toronto, you'll be dearly missed. Stay tuned to see what future awaits me! </li>
 </div>
 
-## 2023
-
-<div style='text-align: justify'>
-<li> <b> 05-10 August, 2023: </b> I'll be attending <a href="https://ww2.amstat.org/meetings/jsm/2023/" target="_blank"> JSM </a> at the Metro Toronto Conventional Center. Happy to connect and chat about alignment (or simply have a coffee) with everyone there! </li>
-
-<li> <b> 30 May, 2023: </b> I'll be presenting my research [poster](./files/COVID_poster.pdf) at the <a href="https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa" target="_blank"> SSC Annual Meeting in Ottawa</a>. Come check it out if you're around, and let's chat!</li>
-</div>
-
-[poster](./files/COVID_poster.pdf)
+* Complete list of updates is available [here](/updates/).
