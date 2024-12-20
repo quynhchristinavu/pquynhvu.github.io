@@ -17,10 +17,13 @@ design:
 
 ---
 
-## <b> 2024 <b>
+## 2024 
 
 <div style='text-align: justify'>
-My name <em>Anirban</em> is a Bengali name ("অনির্বাণ", if you have Bengali fonts to see that), which means <em>a light that shines forever</em>. In Bengali, it sounds a bit like: <em>aw-nee-r-baan</em>. However, as Bengali is not a language with strict intonations, many variations of the pronunciation by non-Bengali speakers still make sense (somewhat!). In Japanese (Katakana), it is written as バス　オニバン (note that the family name is written first) and pronounced (in Romanization) <em>ba-su o-ni-ba-n</em>.<br/><br/>
+
+<b> 22 August, 2024: <b> Life overdue update: I started my Ph.D. at UF
+
+<br/><br/>
 
 If you would like to see how my name is written but do not have the Bengali or Japanese fonts to read the names in the paragraph above, click on the links below to see them as images.
 * Full name in Bengali, left-to-right reading order: [click here](/img/bengali-name.png).
