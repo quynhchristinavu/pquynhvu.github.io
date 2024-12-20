@@ -9,7 +9,11 @@ header:
   image: ""
 ---
 
-**2023-2024**
+## 2025 
+
+## 2024 
+
+* **22 August, 2024:** Long-overdue life update: I started my Ph.D. at the [University of Florida](https://stat.ufl.edu/) *(posted on 19 December, 2024)*
 
 *Society and Politics in Spain*, Summer School, Universitat Pompeu Fabra
 
