@@ -31,6 +31,5 @@ design:
 <div style='text-align: justify'>
 <li> <b> 05-10 August, 2023: </b> I'll be attending <a href="https://ww2.amstat.org/meetings/jsm/2023/" target="_blank"> JSM </a> at the Metro Toronto Conventional Center. Happy to connect and chat about alignment with everyone there! </li>
 
-<li> <b> 30 May, 2023: </b> I'll be presenting my research <a href="https://github.com/pquynhvu/bayes/blob/b04d56335224ef70dac4a0f0f5563f6cc8caaf2e/SSC2023/poster/poster.pdf" target="_blank"> poster </a> at the <a href="https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa" target="_blank"> SSC Annual Meeting in Ottawa </a>. Come check it out if you're around.</li>
+<li> <b> 30 May, 2023: </b> I'll be presenting my research [poster](/files/COVID_poster.pdf). at the <a href="https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa" target="_blank"> SSC Annual Meeting in Ottawa </a>. Come check it out if you're around.</li>
 </div>
-found [here](./files/COVID_poster.pdf).
