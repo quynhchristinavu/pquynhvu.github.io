@@ -1,8 +1,7 @@
 ---
 title:    
+type: single
 
-
-type: page
 view: 2
 
 header:
@@ -10,4 +9,8 @@ header:
   image: ""
 ---
 
+**Published/Accepted**
 
+**Submitted**
+
+**In preparation**
