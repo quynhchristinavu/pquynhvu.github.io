@@ -18,4 +18,4 @@ design:
 ---
 
 
-##### Complete list of updates is available [here](./updates/).
+##### Complete list of updates is available [here](./posts/).
