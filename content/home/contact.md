@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -15,6 +15,20 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
+  email: quynhvu@ufl.edu
+# phone: +34 93 542 28 14
+  address:
+    street: 230 Newell Dr
+    city: Gainesville
+    region: Florida
+    postcode: '32611'
+    country: United States
+    country_code: US
+  coordinates:
+    latitude: '29.650116'
+    longitude: '-82.344120'
+  directions: My office is in Room 234 Griffin-Floyd Hall.
+#office_hours: 'By appointment' 
   
 design:
   columns: '2'
