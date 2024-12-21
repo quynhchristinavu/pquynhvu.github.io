@@ -25,7 +25,7 @@ content:
   email: quynhvu@ufl.edu
   # phone: 888 888 88 88
   address:
-    street: 230 Newell Dr
+    street: 234 Griffin-Floyd Hall (230 Newell Dr)
     city: Gainesville
     region: Florida
     postcode: '32611'
@@ -34,7 +34,7 @@ content:
   coordinates:
     latitude: '29.650116'
     longitude: '-82.344120'
-  directions: My office is in Room 234 Griffin-Floyd Hall.
+  #directions: My office is in Room 234 Griffin-Floyd Hall.
   #office_hours: By appointment
     #- 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
