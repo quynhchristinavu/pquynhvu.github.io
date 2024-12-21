@@ -9,12 +9,11 @@ header:
   image: ""
 ---
 
-#### Personal
+## Personal
 
 * TBD: **My Journey to Graduate School.**
 
-
-#### Science Communication
+## Science Communication
 
 * TBD: **Linear Programming and Healthy Meals at McDonald's.**
 
