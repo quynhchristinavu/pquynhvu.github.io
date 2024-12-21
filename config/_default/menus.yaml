@@ -14,7 +14,7 @@ main:
     url: /updates/
     weight: 40
   - name: Blog
-    url: '#blog'
+    url: /posts/
     weight: 60
   - name: Contact me
     url: '#contact'
