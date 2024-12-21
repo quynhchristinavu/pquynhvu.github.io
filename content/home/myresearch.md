@@ -22,4 +22,4 @@ design:
 
 ## The future
 
-##### Complete list of updates is available [here](./updates/).
+##### Complete list of updates is available [here](./Publications/).
