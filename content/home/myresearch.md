@@ -22,4 +22,4 @@ design:
 
 ## The future
 
-##### Complete list of publications is available [here](./publications/).
+###### See all publications and ongoing research projects [here](./publications/).
