@@ -15,12 +15,13 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      captcha: false # Enable CAPTCHA challenge to reduce spam?
+  #form:
+    #provider: formspree #netlify
+    #formspree: 
+      #id: https://formspree.io/f/xyzzgyqb
+    #netlify:
+      # captcha: false # Enable CAPTCHA challenge to reduce spam?
+  # Read more here https://bootstrap.hugoblox.com/blocks-v1/contact/
   email: quynhvu@ufl.edu
   # phone: 888 888 88 88
   address:
@@ -34,8 +35,7 @@ content:
     latitude: '29.650116'
     longitude: '-82.344120'
   directions: My office is in Room 234 Griffin-Floyd Hall.
-  #office_hours:
-    #- 'Monday 10:00 to 13:00'
+  #office_hours: By appointment
     #- 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   #contact_links:
