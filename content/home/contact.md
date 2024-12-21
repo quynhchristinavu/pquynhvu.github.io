@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: pages
+widget: contact
 
 # This file represents a page section.
 headless: true
@@ -15,8 +15,14 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      captcha: false # Enable CAPTCHA challenge to reduce spam?
   email: quynhvu@ufl.edu
-# phone: +34 93 542 28 14
+  # phone: 888 888 88 88
   address:
     street: 230 Newell Dr
     city: Gainesville
@@ -28,8 +34,19 @@ content:
     latitude: '29.650116'
     longitude: '-82.344120'
   directions: My office is in Room 234 Griffin-Floyd Hall.
-#office_hours: 'By appointment' 
-  
+  #office_hours:
+    #- 'Monday 10:00 to 13:00'
+    #- 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
+  #contact_links:
+    #- icon: twitter
+      #icon_pack: fab
+      #name: DM Me
+      #link: 'https://twitter.com/Twitter'
+    #- icon: video
+      #icon_pack: fas
+      #name: Zoom Me
+      #link: 'https://zoom.com'
 design:
   columns: '2'
 ---
