@@ -22,4 +22,6 @@ design:
 ---
 
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.185919880867005%2C41.388010135947354%2C2.194878458976746%2C41.39168856347275&amp;layer=mapnik&amp;marker=41.38984937572588%2C2.190399169921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/search?query=Griffin-Floyd%20Hall#map=17/29.649843/-82.341137">View Larger Map</a></small>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
+src="https://www.openstreetmap.org/export/embed.html?bbox=-82.34503179788591%2C29.649444432687243%2C-82.34320789575578%2C29.65078709295832&amp;layer=mapnik" 
+style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/29.650116/-82.344120">View Larger Map</a></small>
