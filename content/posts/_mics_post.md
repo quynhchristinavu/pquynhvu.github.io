@@ -1,6 +1,6 @@
 ---
 title: 
-type: single
+type: blank
 
 view: 2
 
