@@ -1,6 +1,6 @@
 ---
 title:    
-type: single
+type: page
 
 view: 2
 
