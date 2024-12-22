@@ -22,4 +22,6 @@ design:
 
 ## The future
 
+I plan to lead my own research group in academia, where I will explore the mechanisms driving post-acute neurological sequelae after viral and bacterial infections. 
+
 ###### See all publications and ongoing research projects [here](./publications/).
