@@ -1,6 +1,6 @@
 ---
 widget: pages 
-headless: true # This file represents a page section.
+headless: false # This file represents a page section.
 title: 
 view: 2
 
