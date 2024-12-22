@@ -23,4 +23,4 @@ header:
 
 ## Miscellaneous
 
-* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a list of crochet "lessons" and my finished products [here](./_mics_post.md). 
+* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a list of crochet "lessons" and my finished products [here](./_mics_post). 
