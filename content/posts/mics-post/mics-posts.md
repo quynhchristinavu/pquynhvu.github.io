@@ -1,6 +1,6 @@
 ---
 title:
-cms_exclude: false
+cms_exclude: true
 type: page
 
 # View.
