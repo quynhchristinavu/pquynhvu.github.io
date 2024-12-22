@@ -1,6 +1,7 @@
 ---
 title:
-cms_exclude: true
+cms_exclude: false
+type: page
 
 # View.
 #   1 = List
@@ -14,7 +15,5 @@ header:
   caption: ""
   image: ""
 ---
-
-## Miscellaneous
 
 * Christmas peppermint pillows [[link]](https://www.youtube.com/watch?v=cbMhZ4kwLKk)
