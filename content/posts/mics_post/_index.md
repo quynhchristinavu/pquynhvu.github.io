@@ -1,6 +1,6 @@
 ---
-title: Miscellaneous
-type: single
+title: 
+type: page
 
 view: 2
 
