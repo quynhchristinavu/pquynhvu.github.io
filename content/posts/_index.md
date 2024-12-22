@@ -1,19 +1,12 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+title:    
+type: single
 
-# This file represents a page section.
-headless: true
+view: 2
 
-# Order that this section appears on the page.
-weight: 40
-
-title:
-subtitle:
-
-design:
-  columns: '2'
+header:
+  caption: ""
+  image: ""
 ---
 
 ## Science Communication
