@@ -1,6 +1,6 @@
 ---
 title:    
-type: pGE
+type: page
 
 view: 2
 
