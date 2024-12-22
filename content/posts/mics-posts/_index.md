@@ -9,9 +9,12 @@ header:
   image: ""
 
 content:
-  text:
-    Christmas peppermint pillows [[link]](https://www.youtube.com/watch?v=cbMhZ4kwLKk)
-  
+  title: Recent Publications
+  text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+
   # heart: Amigurumi Heart [[link]](https://www.youtube.com/watch?v=vxn93raVYxg&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=13)
 ---
 
