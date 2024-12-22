@@ -1,5 +1,5 @@
 ---
-title: 
+title: Miscellaneous
 type: single
 
 view: 2
