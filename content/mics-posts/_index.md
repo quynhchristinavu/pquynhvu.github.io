@@ -1,20 +1,12 @@
 ---
-title:
-cms_exclude: false
-type: page
+title:    
+type: single
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
-
 ---
 
 * Christmas peppermint pillows [[link]](https://www.youtube.com/watch?v=cbMhZ4kwLKk)
