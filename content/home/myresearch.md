@@ -18,7 +18,11 @@ design:
 ---
 ## Undergraduate
 
+<div style='text-align: justify' font-family: "Garamond", serif;>
 My research journey began at my alma mater, York University, where, as a Specialized Honours student under Dr. Neal Madras, I studied the Metropolis–Hastings algorithm in the case of  the bounded, monotone-decreasing affine permutations. I honed my expertise in MCMS methods, validating the conjecture about the undistorted parallelism and the weak limits of the probability measures of these specific classes of affine permutations, which established the framework for pattern recognition in algorithm analysis.
+
+
+</div>
 
 ## Ph.D.
 
