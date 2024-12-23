@@ -19,6 +19,9 @@ main:
   - name: Contact me
     url: '#contact'
     weight: 80
+  - name: Mics post
+    url: /posts/mics-posts/
+    weight: 80
   #- name: Teaching
     #url: '#teaching'
     #weight: 20
