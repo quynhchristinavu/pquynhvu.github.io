@@ -28,7 +28,7 @@ header:
 
 
 <body>
-<p> Last updated </p>
+<p> <em> Last updated </em> </p>
 <p id="demo"></p>
 
 <script>

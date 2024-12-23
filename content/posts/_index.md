@@ -16,6 +16,8 @@ post:
   # Filter on criteria
   filters: 
     folders:
+      - personal
+      - SciComm
       - mics
     tag: ''
     category: ''
@@ -51,5 +53,7 @@ design:
 ## Miscellaneous
 
 * **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./mics/crochet/) of crochet "lessons" and my finished products. 
+
+* [Quotes](./mics/quote/) that I find uplifting.
 
 * List of [books](./mics/book/) I read and love and those on my reading list.
