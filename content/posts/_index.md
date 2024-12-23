@@ -9,13 +9,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent publications
+title: Posts
 subtitle: 
 
-content:
-  text: Miscellaneous
-
-   
+post:
+  # Filter on criteria
+  filters:
+    folders:
+      - mics-posts
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -28,3 +36,6 @@ design:
   columns: '2'
 ---
 
+## Miscellaneous
+
+* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./mics-posts/) of crochet "lessons" and my finished products. 
