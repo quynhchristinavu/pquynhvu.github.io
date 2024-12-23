@@ -16,8 +16,7 @@ post:
   # Filter on criteria
   filters: 
     folders:
-      - crochet
-      - book
+      - mics
     tag: ''
     category: ''
     publication_type: ''
@@ -51,6 +50,6 @@ design:
 
 ## Miscellaneous
 
-* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./crochet/) of crochet "lessons" and my finished products. 
+* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./mics/crochet/) of crochet "lessons" and my finished products. 
 
-* List of [books](./book/) I read and love and those on my reading list.
+* List of [books](./mics/book/) I read and love and those on my reading list.
