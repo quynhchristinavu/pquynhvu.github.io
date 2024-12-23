@@ -11,6 +11,6 @@ view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Christmas peppermint pillows [[video]](https://www.youtube.com/watch?v=cbMhZ4kwLKk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=37) "
   image: ""
 ---
