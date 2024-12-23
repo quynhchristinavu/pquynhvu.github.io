@@ -30,3 +30,5 @@ design:
 * **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./crochet.html) of crochet "lessons" and my finished products. 
 
 * [Quotes](./quotes.html) that I find uplifting.
+
+* List of [books](./books.html) I read and love and those on my reading list.
