@@ -12,7 +12,5 @@ output: html_document
 
 #### Heart drawstring pouch [[video]](https://www.youtube.com/watch?v=oHcpY10i4Jk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=18) [[link]](https://www.ravelry.com/patterns/library/heart-drawstring-pouch)
 
-<img src="heart-pouch.jpeg" alt="Girl in a jacket" width="200" height="200" style="vertical-align:bottom">
-<img src="heart-pouch2.jpeg" alt="Girl in a jacket" width="250" height="200" style="float: left"> 
 
 Last updated `r format(Sys.time(), '%d %B, %Y')`
