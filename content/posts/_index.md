@@ -14,9 +14,9 @@ subtitle:
 
 post:
   # Filter on criteria
-  filters:
+  filters: 
     folders:
-      - mics-posts
+      - crochet
     tag: ''
     category: ''
     publication_type: ''
@@ -38,4 +38,4 @@ design:
 
 ## Miscellaneous
 
-* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./mics-posts/) of crochet "lessons" and my finished products. 
+* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./crochet/) of crochet "lessons" and my finished products. 
