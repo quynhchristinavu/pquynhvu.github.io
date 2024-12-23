@@ -1,9 +1,9 @@
 ---
-title: "Miscellaneous posts"
+title: "Crochet patterns"
 author: ""
 output: 
-  html_document:
-    css: CSSBackgrounds.css
+  html_document #:
+    #css: CSSBackgrounds.css
 ---
 
 #### Christmas peppermint pillows [[video]](https://www.youtube.com/watch?v=cbMhZ4kwLKk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=37) 
