@@ -69,7 +69,9 @@ email: ""
 ---
 
 <div style='text-align: justify'>
-I am a Ph.D. student in the Department of Statistics at the University of Florida. Prior to UFL, I completed my bachelor's and master's degrees in Canada. My current research interests lie in the theoretical and computational challenges in settings where traditional statistical methods are insufficient. Non-academic-wise, I am really passionate about improving statistical communication and overall statistical literacy and increasing the representation of women in STEM and other quantitative fields. Outside of work, I really enjoy reading, crocheting, and hiking, and I am also a coffee enthusiast! <br/><br/>
+I am a Ph.D. student in the Department of Statistics at the University of Florida. Prior to UFL, I completed my bachelor's and master's degrees in Canada. My current research interests lie at the interface of Bayesian statistics, assumption-free prediction, and uncertainty quantification. In particular, I aim to develop statistical methods that address inferential challenges induced by computational constraints for high-dimensional data and varying-dimension parameter space in Bayesian framework. In my past life, I had conducted research on Markov Chain Monte Carlo, agent-based modeling, and variational Bayes. 
+<br/><br/>
+Non-academic-wise, I am really passionate about improving statistical communication and overall statistical literacy and increasing the representation of women in STEM and other quantitative fields. Outside of work, I really enjoy reading, crocheting, and hiking, and I am also a coffee enthusiast! <br/><br/>
 </div>
 
 My full CV can be found [here](./files/resume.pdf).
