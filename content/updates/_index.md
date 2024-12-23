@@ -1,5 +1,5 @@
 ---
-title:    
+title: Updates   
 type: single
 
 view: 2
