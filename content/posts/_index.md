@@ -27,4 +27,4 @@ design:
 
 ## Miscellaneous
 
-* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./mics-posts/) of crochet "lessons" and my finished products. 
+* **Crochet** is one of those pastimes I can never let go; it’s part of who I am. I maintain a [list](./mics-posts/test.html) of crochet "lessons" and my finished products. 
