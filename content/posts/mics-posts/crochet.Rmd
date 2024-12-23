@@ -1,13 +1,12 @@
 ---
 title: "Miscellaneous posts"
 author: ""
-date: "Last updated December 22, 2024"
 output: html_document
 ---
 
-#### Christmas peppermint pillows [[link]](https://www.youtube.com/watch?v=cbMhZ4kwLKk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=37) 
+#### Christmas peppermint pillows [[video]](https://www.youtube.com/watch?v=cbMhZ4kwLKk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=37) 
 
-#### Amigurumi strawberry: [[link]](https://www.youtube.com/watch?v=2EVZciLaAFg&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=31)
+#### Amigurumi strawberry: [[video]](https://www.youtube.com/watch?v=2EVZciLaAFg&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=31)
 
 #### Amigurumi heart: [[video]](https://www.youtube.com/watch?v=vxn93raVYxg&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=13) 
 
@@ -15,3 +14,5 @@ output: html_document
 
 <img src="heart-pouch.jpeg" alt="Girl in a jacket" width="200" height="200" style="vertical-align:bottom">
 <img src="heart-pouch2.jpeg" alt="Girl in a jacket" width="250" height="200" style="float: left"> 
+
+Last updated `r format(Sys.time(), '%d %B, %Y')`
