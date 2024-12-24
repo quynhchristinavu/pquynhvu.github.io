@@ -1,6 +1,6 @@
 ---
 title: My Journey to Graduate School
-date: 24 December, 2024
+
 cms_exclude: true
 
 # View.
@@ -41,7 +41,7 @@ The research I had conducted thus far not only allowed me to accrue considerable
 ## Ph.D. - Piecing it together
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-First and foremost, I'm thankful from the bottom of my heart for my family and my partner as my amazing immediate support system and to all the faculties who believed in a student who knew so little but dreamed of doing so much. Were it not for each of you, I'd not be here today.
+<em> Stay tuned for more details </em>
 </div>
 
 ## The future
