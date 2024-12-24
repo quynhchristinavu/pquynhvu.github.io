@@ -48,7 +48,7 @@ design:
 
 ## Personal
 
-* TBD: [My PhD research journey: The intrigues, rigour and sense of fulfillment](./person/phd-journey/)
+* TBD: [My PhD research journey: The intrigues, rigour and sense of fulfillment](./personal/phd-journey/)
 
 * TBD: [My Journey to Graduate School](./personal/grad-school-journey/)
 
