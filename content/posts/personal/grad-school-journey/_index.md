@@ -1,6 +1,6 @@
 ---
 title: My Journey to Graduate School
-date: 23 December, 2024
+date: 24 December, 2024
 cms_exclude: true
 
 # View.
@@ -17,7 +17,7 @@ header:
 ---
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-I wasn’t expected to make it this far, and I'd never have imagined myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes.
+I wasn’t expected to make it this far, and I'd never have envisioned myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes [[read more]](./phd-journey/).
 </div>
 
 ## Undergraduate - Where the journey begins
@@ -30,7 +30,12 @@ In the summer prior to my senior year, I worked with <a href="https://www.yorku.
 
 ## M.Sc. - Time to narrow down my seemingly eclectic and vague interests
 
-My undergraduate research sparked my interest in understanding uncertainty in inference problems. My Master’s in Statistics from the University of Toronto further honed my intellectual and technical growth in statistical inference and the use of probability language to automatically and coherently account for uncertainty. 
+My time at the University of Toronto was really affirmative. Here, I focused my studies on probabilistic modelling and the trade-off between the computational complexity of an algorithm and the guarantees of asymptotically exact samples it may yield. This sparked my curiosity in how to use of probability language to automatically and coherently account for uncertainty. My research experience under Dr. Samantha-Jo Caetano further facilitating efficient and reliable data analysis procedures, I seek to aid researchers and practitioners in overcoming biases and turning data into actionable insights for better research. 
+
+
+as it allowed me to realize how my seemingly vague 
+interest in understanding uncertainty in inference problems fits together in one research area called Bayesian statistics. 
+
 
 
 ## Ph.D. - Piecing it together
