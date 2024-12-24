@@ -1,5 +1,5 @@
 ---
-title: My journey
+title: My Journey to Graduate School
 cms_exclude: true
 
 # View.
