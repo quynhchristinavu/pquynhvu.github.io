@@ -25,6 +25,8 @@ I am particularly drawn to a field known as Bayesian statistics, which offers a 
 
 * How can we make inference faster, easier, and more reliable to use for practitioners?
 
+I'm also open to learning more about 
 
+* Hierarchical, mixture and graphical models.
 
 ###### See all publications and ongoing research projects [here](./publications/).
