@@ -18,7 +18,7 @@ design:
 ---
 
 <div style='text-align: justify'>
-I am particularly drawn to a field known as Bayesian statistics, which offers a fertile and solid mathematical underpinnings for the development of many computational and statistical modeling ideas. For now,  my interests encompass the following areas:
+I'm particularly drawn to a field known as Bayesian statistics, which offers a fertile and solid mathematical underpinnings for the development of many computational and statistical modeling ideas. For now,  my interests encompass the following areas:
 </div>
 
 * Interpretability, efficiency, scalability, and robustness of approximate inference.
