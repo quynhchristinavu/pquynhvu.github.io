@@ -23,10 +23,14 @@ I am particularly drawn to a field known as Bayesian statistics, which offers a 
 
 * Interpretability, efficiency, scalability, and robustness of approximate posterior inference
 
-* How can we make inference faster, easier, and more reliable to use for practitioners?
+* Statistical inference in non-traditional settings (e.g., sensitivity of Bayesian inference when subjected to data perturbation, uncertainty quantification in non-i.i.d. settings, statistics on non-Euclidean, etc.)
 
 I'm also open to learning more about 
 
 * Hierarchical, mixture and graphical models.
+
+* Optimal transport and statistical inference
+
+* Combinatorial optimization
 
 ###### See all publications and ongoing research projects [here](./publications/).
