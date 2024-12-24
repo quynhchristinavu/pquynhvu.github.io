@@ -19,12 +19,12 @@ design:
 
 <div style='text-align: justify'>
 I am particularly drawn to a field known as Bayesian statistics, which offers a fertile and solid mathematical underpinnings for the development of many computational and statistical modeling ideas. For now,  my interests encompass the following areas:
-
-
-<p style="margin-left: 15px;"> <li> Interpretability, efficiency, scalability, and robustness of approximate posterior inference </li>  </p>
-
-<li> How we can make inference fast and easy to use for practitioners.  </li>
-
 </div>
+
+* Interpretability, efficiency, scalability, and robustness of approximate posterior inference
+
+* How can we make inference faster, easier, and more reliable to use for practitioners?
+
+
 
 ###### See all publications and ongoing research projects [here](./publications/).
