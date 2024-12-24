@@ -1,5 +1,6 @@
 ---
 title: My Journey to Graduate School
+date: 23 December, 2024
 cms_exclude: true
 
 # View.
@@ -14,6 +15,11 @@ header:
   caption: ""
   image: ""
 ---
+
+<div style='text-align: justify' font-family: "Garamond", serif;>
+I wasn’t expected to make it this far, and I'd never have imagined myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes.
+</div>
+
 ## Undergraduate - Where the journey begins
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
@@ -23,6 +29,8 @@ In the summer prior to my senior year, I worked with <a href="https://www.yorku.
 </div>
 
 ## M.Sc. - Time to narrow down my seemingly eclectic and vague interests
+
+My undergraduate research sparked my interest in understanding uncertainty in inference problems. My Master’s in Statistics from the University of Toronto further honed my intellectual and technical growth in statistical inference and the use of probability language to automatically and coherently account for uncertainty. 
 
 
 ## Ph.D. - Piecing it together
