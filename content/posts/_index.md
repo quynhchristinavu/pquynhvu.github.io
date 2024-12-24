@@ -48,6 +48,8 @@ design:
 
 ## Personal
 
+* TBD: My PhD research journey: The intrigues, rigour and sense of fulfillment
+
 * TBD: My Journey to Graduate School.
 
 ## Miscellaneous
