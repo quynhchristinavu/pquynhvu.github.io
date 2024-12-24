@@ -17,7 +17,7 @@ header:
 ---
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-I wasn’t expected to make it this far, and I'd never have envisioned myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes.
+I'd never have envisioned myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes. I'm thankful from the bottom of my heart to my family and partner as my tremendous immediate support system and to all the faculty who believed in a student who knew so little but dreamed of doing so much. Were it not for each of you, I wouldn't be here today.
 </div>
 
 ## Undergraduate - Where the journey begins
@@ -41,19 +41,14 @@ The research I had conducted thus far not only allowed me to accrue considerable
 ## Ph.D. - Piecing it together
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-believing in me and taking a chance on a student who knew so little but dreamed of
-doing so much. Were it not for each of you, I may never have pursued a Ph.D. in the
-first place. Thank you for everything that you’ve done for me.
-
+First and foremost, I'm thankful from the bottom of my heart for my family and my partner as my amazing immediate support system and to all the faculties who believed in a student who knew so little but dreamed of doing so much. Were it not for each of you, I'd not be here today.
 </div>
 
 ## The future
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-I plan to lead my own research group, either in academia or industry, and continue to advance the reliability and efficiency of data-informed decision-making across all domains. 
-further facilitated efficient and reliable data analysis procedures, I seek to aid researchers and practitioners in overcoming biases and turning data into actionable insights for better research. 
-
-This enables me to make connections and contributions to the ongoing research efforts on the foundational and algorithmic advances for reliable and automatic prediction mechanisms 
+I plan to lead my research group, either in academia or industry, and continue to advance the robustness, reliability, and efficiency of data-informed decision-making procedures backed by theoretical guarantees on the quality of algorithms' outputs. I seek to aid researchers and practitioners in overcoming biases and turning data into actionable insights for better research across all domains.
+<br><br>
 </div>
 
 <body>
