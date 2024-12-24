@@ -16,6 +16,7 @@ design:
   columns: '2'
 
 ---
+**December 24, 2024:** [My Journey to Graduate School](./posts/personal/grad-school-journey/)
 
 **December 21, 2024:** [Thoughts after finishing a Demography PhD](https://www.monicaalexander.com/posts/2018-23-05-demog_phd/) from Dr. Monica Alexander, Associate Professor in Statistical Sciences and Sociology at the University of Toronto.
 
