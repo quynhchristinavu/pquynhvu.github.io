@@ -27,15 +27,29 @@ header:
 
 * **The Thorn Birds** by Colleen McCullough
 
-* **Đèn không hắt bóng** (*can be loosely translated into "Light that casts no shadow"*) by Junichi Watanabe
+* **Đèn không hắt bóng** (lit. *"Light that casts no shadow"*) by Junichi Watanabe
 
 * **Doctor Zhivago** by Boris Pasternak
 
-*To be continued*
+* **The Diary of a Young Girl** by Anne Frank
+
+* **Sans Famille** (lit. *"Without Family" or *Nbody's Boy*) by Hector Malot. 
+
+* **The Citadel** by Archibald Joseph Cronin 
+
+* **Znachor** (lit. "The Quack") by Tadeusz Dołęga-Mostowicz
+
+* **White Fang** by Jack London
+
+* **The Call of the Wild** by Jack London
+
+* **South of the Border, West of the Sun** by Haruki Murakami
 
 ## Books on my reading list
 
 * **Think complexity** by Allen B. Downey
+
+* **The Clifton Chronicles** by Jeffrey Archer
 
 * **Snow Country** by Yasunari Kawabata
 
