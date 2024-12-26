@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-## Quotes
+## Quotations
 
 * "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." - Samuel Beckett
 
@@ -43,6 +43,20 @@ header:
 * "We can't learn without pain." - Aristotle
 
 * "Luck is what happens when preparation meets opportunity." - Roman philosopher Seneca
+
+* "Errors using inadequate data are much less than those using no data at all." - Charles Babbage
+
+* "As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.* - Albert Einstein
+
+* "All models are wrong, but some are useful." - Statistician George E. P. Box
+
+* "The human animal differs from the lesser primates in his passion for lists of "Ten Best"." - Allen Smith
+
+* "Action speaks louder than words -- but not nearly as often." - Mark Twain
+
+* "There is something fascinating about science. One gets such wholesale returns of conjecture out of such a trifling investment of fact." - Mark Twain
+
+* "In my experience most mathematicians are intellectually lazy and especially dislike reading experimental papers." - Francis Crick
 
 <body>
 <p> <em> Last updated </em> </p>
