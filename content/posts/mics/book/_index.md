@@ -27,17 +27,17 @@ header:
 
 * **The Thorn Birds** by Colleen McCullough
 
-* **Đèn không hắt bóng** (lit. *"Light that casts no shadow"*) by Junichi Watanabe
+* **Đèn không hắt bóng** (lit. *Light that casts no shadow*) by Junichi Watanabe
 
 * **Doctor Zhivago** by Boris Pasternak
 
 * **The Diary of a Young Girl** by Anne Frank
 
-* **Sans Famille** (lit. *"Without Family" or *Nbody's Boy*) by Hector Malot. 
+* **Sans Famille** (lit. *Without Family* or *Nobody's Boy*) by Hector Malot. 
 
 * **The Citadel** by Archibald Joseph Cronin 
 
-* **Znachor** (lit. "The Quack") by Tadeusz Dołęga-Mostowicz
+* **Znachor** (lit. *The Quack*) by Tadeusz Dołęga-Mostowicz
 
 * **White Fang** by Jack London
 
