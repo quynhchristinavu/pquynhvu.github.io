@@ -17,7 +17,7 @@ header:
 ---
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-I'd never have envisioned myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes. I'm thankful from the bottom of my heart to my family and partner as my tremendous immediate support system and to all the faculty who believed in a student who knew so little but dreamed of doing so much. Were it not for each of you, I wouldn't be here today.
+I'd never have envisioned myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes. 
 </div>
 
 ## Undergraduate - Where the journey begins
