@@ -58,4 +58,4 @@ design:
 
 * [Quotes](./mics/quote/) that I find uplifting.
 
-* List of [books](../books) I read and love and those on my reading list.
+* List of [books](../books.md) I read and love and those on my reading list.
