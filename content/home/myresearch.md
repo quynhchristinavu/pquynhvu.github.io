@@ -18,13 +18,13 @@ design:
 ---
 
 <div style='text-align: justify'>
-I'm particularly drawn to a field known as Bayesian statistics, which offers a fertile and solid mathematical underpinnings for the development of many computational and statistical modeling ideas. For now,  my interests encompass the following areas: 
+I'm particularly drawn to Bayesian statistics, which offers a fertile and solid mathematical underpinning for the development of many computational and statistical modeling ideas. For now, my interests encompass the following areas:
 <br><br>
 </div>
 
 * Interpretability, efficiency, scalability, and robustness of approximate inference.
 
-* Statistical inference in non-traditional settings (e.g., uncertainty quantification in non-i.i.d. settings, sensitivity of posterior inference subject to data perturbation, statistics on non-Euclidean space, etc.)
+* Statistical inference in non-traditional settings (e.g., UQ in non-i.i.d. settings, sensitivity of posterior inference subject to data perturbation, assumption-free prediction, etc.)
 
 * Bayesian machine learning
 
