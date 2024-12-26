@@ -16,7 +16,7 @@ design:
   columns: '2'
 
 ---
-**TBD:** My Journey to Graduate School [[first draft available here]](./posts/personal/grad-school-journey/)
+**December 26, 2024:** [The three things you need to know for success in the 21st century](https://www.stat.berkeley.edu/~aldous/Misc/PBM.html) from Dr. David Aldous.
 
 **December 21, 2024:** [Thoughts after finishing a Demography PhD](https://www.monicaalexander.com/posts/2018-23-05-demog_phd/) from Dr. Monica Alexander, Associate Professor in Statistical Sciences and Sociology at the University of Toronto.
 
