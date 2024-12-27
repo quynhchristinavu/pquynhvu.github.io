@@ -7509,23 +7509,14 @@ a.anchor-link {
 </style>
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
-<main><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput celltag_remove_input">
+<main><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput celltag_hide_input">
 </div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>The optimization problem aims to optimize the choice of item order, so that we minimize the calories intake per day, while having each type of nutrients in total go above or equal its 100% daily recommended amount. For simplicity, the order amount of each item can be non-integer, but needs to be non-negative.</p>
-<p>$$\begin{equation}
-    \begin{split}
-        \text{$\min\limits_x$ } &amp; c^T x\\
-        \text{subject to } &amp; Ax \preceq b \\
-                           &amp; x \succeq 0\\
-    \end{split}
-\end{equation}$$</p>
-<p>where $c \in \mathbb{R}^{260}$ is the % Daily Value, $x \in \mathbb{R}^{260}$ is amount of items, $b \in \mathbb{R}^{10}$ is nutrient requirements, and $A \in \mathbb{R}^{10 \times 260}$ represents food information.</p>
-<p>Lagrangian $$L(x, u, v) = c^T x + u^T (Ax - b) + v^T (- x)$$</p>
+<h1 id="Linear-Programming-and-Healthy-Meals-at-McDonald%E2%80%99s">Linear Programming and Healthy Meals at McDonald’s<a class="anchor-link" href="#Linear-Programming-and-Healthy-Meals-at-McDonald%E2%80%99s">¶</a></h1>
 </div>
 </div>
 </div>
@@ -7536,11 +7527,17 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><strong>Data</strong> (sourced from <a href="https://www.kaggle.com/datasets/mcdonalds/nutrition-facts">https://www.kaggle.com/datasets/mcdonalds/nutrition-facts</a>)</p>
+<h4 id="Data-(sourced-from-https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)">Data (sourced from <a href="https://www.kaggle.com/datasets/mcdonalds/nutrition-facts">https://www.kaggle.com/datasets/mcdonalds/nutrition-facts</a>)<a class="anchor-link" href="#Data-(sourced-from-https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)">¶</a></h4><p>There are:</p>
+<ul>
+<li>260 food items available across 9 categories</li>
+<li>10 nutrition facts per item</li>
+</ul>
+<p><u>Goal</u>: Find the “most balanced" order that minimize the calories intake while still at least reaching daily nutrient recommendations.</p>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noInput celltag_remove-input">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput celltag_remove-input">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noInput">
 <div class="jp-Cell-outputWrapper">
 <div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
 </div>
@@ -7667,6 +7664,65 @@ a.anchor-link {
 <td>25</td>
 <td>10</td>
 </tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$$\vdots$$</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noInput">
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>Category</th>
+<th>Item</th>
+<th>Serving Size</th>
+<th>Calories</th>
+<th>Total Fat (% Daily Value)</th>
+<th>Saturated Fat (% Daily Value)</th>
+<th>Cholesterol (% Daily Value)</th>
+<th>Sodium (% Daily Value)</th>
+<th>Carbohydrates (% Daily Value)</th>
+<th>Dietary Fiber (% Daily Value)</th>
+<th>Vitamin A (% Daily Value)</th>
+<th>Vitamin C (% Daily Value)</th>
+<th>Calcium (% Daily Value)</th>
+<th>Iron (% Daily Value)</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <th>255</th>
 <td>Smoothies &amp; Shakes</td>
@@ -7759,29 +7815,46 @@ a.anchor-link {
 </div>
 </div>
 </div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h4 id="Mathematical-Model">Mathematical Model<a class="anchor-link" href="#Mathematical-Model">¶</a></h4><p>The optimization problem aims to optimize the choice of item order, so that we minimize the calories intake per day, while having each type of nutrients in total go above or equal its 100% daily recommended amount. For simplicity, the order amount of each item can be non-integer, but needs to be non-negative.</p>
+<p>$$\begin{equation}
+    \begin{split}
+        \text{$\min\limits_x$ } &amp; c^T x\\
+        \text{subject to } &amp; Ax \succeq b \\
+                           &amp; x \succeq 0\\
+    \end{split}
+\end{equation}$$</p>
+<p>where $c \in \mathbb{R}^{260}$ is the % Daily Value, $x \in \mathbb{R}^{260}$ is amount of items, $b \in \mathbb{R}^{10}$ is nutrient requirements, and $A \in \mathbb{R}^{10 \times 260}$ represents food information.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<center><img alt="No description has been provided for this image" height="300" src="A-matrix.png" style="margin-left:auto; margin-right:auto" width="400"/></center>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>Lagrangian $$L(x, u, v) = c^T x + u^T (Ax - b) + v^T (- x)$$</p>
+</div>
+</div>
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput celltag_remove-input">
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noInput celltag_remove-input">
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>d:\Temp\ipykernel_14164\2809504942.py:1: DeprecationWarning: `method='simplex'` is deprecated and will be removed in SciPy 1.11.0. Please use one of the HiGHS solvers (e.g. `method='highs'`) in new code.
-  opt_res = scipy.optimize.linprog(c = obj, A_ub=-A, b_ub=-b, bounds=bnd, method="simplex", options={"disp": True})
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Optimization terminated successfully.
-         Current function value: 2034.833800 
-         Iterations: 340
-</pre>
-</div>
-</div>
-</div>
-</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput celltag_remove-input">
 </div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
