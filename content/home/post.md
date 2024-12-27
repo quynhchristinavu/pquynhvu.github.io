@@ -16,6 +16,8 @@ design:
   columns: '2'
 
 ---
+**27 December, 2024:** [Linear Programming and Healthy Meals at McDonald's](./posts/SciComm/healthy-meals-McDonald/calorie_problem.html) 
+
 **December 26, 2024:** [The three things you need to know for success in the 21st century](https://www.stat.berkeley.edu/~aldous/Misc/PBM.html) from Dr. David Aldous, Professor Emeritus at UC Berkeley and Affiliate Professor at UW Mathematics.
 
 **December 21, 2024:** [Thoughts after finishing a Demography PhD](https://www.monicaalexander.com/posts/2018-23-05-demog_phd/) from Dr. Monica Alexander, Associate Professor in Statistical Sciences and Sociology at the University of Toronto.
