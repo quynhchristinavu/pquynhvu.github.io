@@ -40,7 +40,7 @@ design:
 
 ## Science Communication
 
-* TBD: Linear Programming and Healthy Meals at McDonald's [[data]](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts) [[code]]
+* TBD: Linear Programming and Healthy Meals at McDonald's [[data]](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts) [[slide]]
 
 * December 26, 2024: [The three things you need to know for success in the 21st century](https://www.stat.berkeley.edu/~aldous/Misc/PBM.html) from Dr. David Aldous, Professor Emeritus at UC Berkeley and Affiliate Professor at UW Mathematics.
 
