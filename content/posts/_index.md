@@ -50,7 +50,9 @@ design:
 
 ## Personal
 
-* **TBD:** [My PhD research journey: The intrigues, rigour and sense of fulfillment](./personal/phd-journey/)
+* **27 December, 2024:** [Thoughts and reflections as 2024 comes to a close](./personal/2024-wrapup/)
+
+* **TBD:** [My PhD Research Journey: The Intrigues, Rigour and Sense of Fulfillment](./personal/phd-journey/)
 
 * **TBD:** [My Journey to Graduate School](./personal/grad-school-journey/)
 
