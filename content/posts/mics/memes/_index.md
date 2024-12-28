@@ -23,7 +23,7 @@ header:
 	  		flex: 30%;
 	  		padding: 7px;
 		}
-		.images img {
+		.img {
   			width: 250px;
   			height: 300px;
   			float: left;
