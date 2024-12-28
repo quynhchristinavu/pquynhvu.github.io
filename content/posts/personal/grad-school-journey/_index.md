@@ -54,13 +54,3 @@ The research I had conducted thus far not only allowed me to accrue considerable
 I plan to lead my research group, either in academia or industry, and continue to advance the robustness, reliability, and efficiency of data-informed decision-making procedures backed by theoretical guarantees on the quality of algorithms' outputs. I seek to aid researchers and practitioners in overcoming biases and turning data into actionable insights for better research across all domains.
 <br><br>
 </div>
-
-<body>
-<p> <em> Last updated </em> </p>
-<p id="demo"></p>
-<script>
-let text = document.lastModified;
-document.getElementById("demo").innerHTML = text;
-</script>
-
-</body>
