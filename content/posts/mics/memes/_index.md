@@ -33,7 +33,7 @@ header:
 	<body>
 		<div class="row">
   			<div class="column">
-    			<img src="meme2.jpg" alt="Forest" style="height:300px">
+    			<img src="meme1.jpg" alt="Forest" style="height:300px">
   			</div>
   			<div class="column">
     			<img src="meme2.jpg" alt="Forest" style="height:300px">
