@@ -64,4 +64,4 @@ design:
 
 * List of [books](./mics/book/) I read and love and those on my reading list.
 
-* [Academic memes](./academic-memes/) I collect along the way.
+* [Academic memes](./memes/) I collect along the way.
