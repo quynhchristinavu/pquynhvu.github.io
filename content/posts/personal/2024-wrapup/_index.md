@@ -57,5 +57,10 @@ In this quiet pause before the rush, I'm grounding myself on what brought me her
 I'm thankful from the bottom of my heart for all of those who held me accountable, taught me how to deal with difficult people in a professional manner, and supported me in your unique ways. Here's to holding space for what matters most.
 </div>
 
-![Cheers to 2025](./pic1.jpg)
+<figure>
+    <img src='pic1.jpg' alt='missing' />
+    <figcaption>Cheers to 2025</figcaption>
+</figure>
+
+
 
