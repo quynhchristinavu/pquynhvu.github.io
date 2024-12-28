@@ -50,7 +50,7 @@ design:
 
 ## Personal
 
-* **27 December, 2024:** [Thoughts and reflections as 2024 comes to a close](./personal/2024-wrapup/)
+* **28 December, 2024:** [Thoughts and reflections as 2024 comes to a close](./personal/2024-wrapup/)
 
 * **TBD:** [My PhD Research Journey: The Intrigues, Rigour and Sense of Fulfillment](./personal/phd-journey/)
 
@@ -63,3 +63,5 @@ design:
 * [Quotes](./mics/quote/) I find helpful for young statisticians like myself, or just anyone else.
 
 * List of [books](./mics/book/) I read and love and those on my reading list.
+
+* [Academic memes](./academic-memes/) I collect along the way.
