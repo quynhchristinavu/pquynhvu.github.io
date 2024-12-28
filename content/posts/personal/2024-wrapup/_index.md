@@ -23,21 +23,21 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 </div>
 
 <body> 
-<p style="margin-left: justify: 1em;">  
-	<em> Don't sacrifice your peace of mind to keep others happy.</em> Learning to set boundaries and put myself first without guilt is well worth it.
+<p style="margin-left: 1em;">  
+	<b> Don't sacrifice your peace of mind to keep others happy.</b> Learning to set boundaries and put yourself first without guilt will be well worth it.
 </p>
 
 </body> 
 
 <body> 
 <p style="margin-left: 1em;">  
-  <em> Don't take unsolicited advice.</em> Oftentimes the advice-givers either have a humongous sense of self or a desire to keep you from achieving your full potential.
+  <b> Don't take unsolicited advice.</b> Oftentimes the advice-givers either have a humongous sense of self or a desire to keep you from achieving your full potential.
 </p>
 </body> 
 
 <body> 
 <p style="margin-left: 1em;">  
-  <em> Stand up for yourself and others.</em> Use your voice wisely and don't let anyone oppress it so we can retain the ability to make your voice heard in the future.
+  <b> Use your voice wisely, and don't let the bullies (yes, they do exist in academia!) oppress it so you can retain the ability to make your voice heard in the future.
 </p>
 </body> 
 
