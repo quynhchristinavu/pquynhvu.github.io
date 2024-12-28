@@ -15,23 +15,22 @@ header:
   image: ""
 ---
 <html lang="en">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>HTML</title>
-<style>
-	
-	.column {
-	  flex: 30%;
-	  padding: 5px;
-	}
-	img {
-	  width: 100%;
-	}
-	.container {
-	   display: flex;
-	}
-</style>
-</head>  
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>HTML</title>
+	<style>
+		.column {
+	  		flex: 30%;
+	  		padding: 5px;
+		}
+		img {
+	  		width: 100%;
+		}
+		.container {
+	   		display: flex;
+		}
+	</style>
+	</head>  
 <body>
     <h2>Welcome to the world of memes!</h2>
 	<div class="container">
@@ -50,10 +49,10 @@ header:
 	     <img src="meme6.jpg" height="300" width="250" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme3.jpg" height="300" width="250" alt="image1">
+	     <img src="meme4.jpg" height="300" width="250" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme4.jpg" height="300" width="250" alt="image1">
+	     <img src="meme3.jpg" height="350" width="250" alt="image1">
 	   </div>
 	</div>
 </body>
