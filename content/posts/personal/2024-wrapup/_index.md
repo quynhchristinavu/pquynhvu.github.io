@@ -1,6 +1,6 @@
 ---
 title: Thoughts and reflections as 2024 comes to a close
-
+date: 2024-12-27
 cms_exclude: true
 
 # View.
@@ -20,6 +20,8 @@ header:
 This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past years. The move was indeed deliberate, yet it was not easy to accept at the time.
 <br><br>
 Life moves fast.
+<br><br>
+A quiet pause before the rush and prepare for all that's yet to come. Here's to holding space to what matters most.
 <br><br>
 
 
