@@ -21,6 +21,10 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 <br><br>
 Life moves fast.
 <br><br>
+2024 taught me important lessons. 
+<br>
+I don't have to be everything to everyone or sacrifice my peace of mind to keep others happy; learning to set boundaries and put myself first without guilt was well worth it.
+<br><br>
 A quiet pause before the rush and prepare for all that's yet to come. Here's to holding space to what matters most.
 <br><br>
 
