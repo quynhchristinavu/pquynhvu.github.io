@@ -43,6 +43,19 @@ header:
   			</div>
 		</div>
 	</body>
+	<body>
+		<div class="row">
+  			<div class="column">
+    			<img src="meme3.jpg" alt="Forest" style="height:350px">
+  			</div>
+  			<div class="column">
+    			<img src="meme4.jpg" alt="Forest" style="height:350px">
+  			</div>
+  			<div class="column">
+    			<img src="meme6.jpg" alt="Mountains" style="height:350px">
+  			</div>
+		</div>
+	</body>
 </html>
 
 
