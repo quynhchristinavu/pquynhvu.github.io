@@ -1,5 +1,5 @@
 ---
-title: 
+title: Welcome to the world of memes!
 cms_exclude: true
 
 # View.
@@ -14,51 +14,55 @@ header:
   caption: ""
   image: ""
 ---
-<html lang="en">
-	<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>HTML</title>
-	<style>
-		.column {
-	  		flex: 30%;
-	  		padding: 7px;
-		}
-		.img {
-  			width: 250px;
-  			height: 300px;
-  			float: left;
-		}
-		.container {
-	   		display: flex;
-		}
-	</style>
-	</head>  
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
 <body>
-    <h2>Welcome to the world of memes!</h2>
-	<div class="container">
-	   <div class="column">
-	     <img src="meme1.jpg" alt="image1">
-	   </div>
-	   <div class="column">
-	     <img src="meme2.jpg" alt="image1">
-	   </div>
-	   <div class="column">
-	     <img src="meme5.jpg" alt="image1">
-	   </div>
+
+<div class="row">
+	<div class="column">
+	    <img src="meme1.jpg" height="300px" style="width:250px height:300px" alt="image1">
 	</div>
-	<div class="container">
-	   <div class="column">
-	     <img src="meme6.jpg" alt="image1">
-	   </div>
-	   <div class="column">
-	     <img src="meme3.jpg" alt="image1">
-	   </div>
-	   <div class="column">
-	     <img src="meme4.jpg" alt="image1">
-	   </div>
+	<div class="column">
+	    <img src="meme2.jpg" style="width:250px height:300px" alt="image1">
 	</div>
+	<div class="column">
+	    <img src="meme5.jpg" style="width:250px height:300px" alt="image1">
+	</div>
+</div>
+
+<div class="container">
+	<div class="column">
+	    <img src="meme6.jpg" style="width:250px height:300px" alt="image1">
+	</div>
+	<div class="column">
+	    <img src="meme3.jpg" style="width:250px height:300px" alt="image1">
+	</div>
+	<div class="column">
+	    <img src="meme4.jpg" style="width:250px height:300px" alt="image1">
+	</div>
+</div>
+
 </body>
-</html> 
+</html>
 
 <body>
 <p> <em> Last updated:</em> 28-12-2024 </p>
