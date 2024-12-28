@@ -25,11 +25,11 @@ header:
         <p style="text-align:center;"> </p>
     </div>
     <div style="float:left;margin-right:5px;">
-        <img src="./meme3.jpg" height="300" width="250" />
+        <img class="middle-img" src="./meme3.jpg" height="300" width="250" />
         <p style="text-align:center;"> </p>
     </div>
     <div style="float:left;margin-right:5px;">
-        <img src="./meme4.jpg" height="300" width="250" />
+        <img class="middle-img" src="./meme4.jpg" height="300" width="250" />
         <p style="text-align:center;"> </p>
     </div>
 </div>
