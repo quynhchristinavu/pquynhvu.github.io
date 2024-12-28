@@ -15,37 +15,35 @@ header:
   image: ""
 ---
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-.row {
-  display: flex;
-}
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
-</head>
-<body>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			* {
+  				box-sizing: border-box;
+			}
+			.row {
+  				display: flex;
+			}
+			.column {
+  				flex: 33.33%;
+  				padding: 7.5px;
+			}
+		</style>
+	</head>
 
-
-<div class="container">
-  <div class="column">
-    <img src="meme1.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="meme2.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="meme5.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
-</body>
+	<body>
+		<div class="row">
+  			<div class="column">
+    			<img src="meme2.jpg" alt="Forest" style="height:300px">
+  			</div>
+  			<div class="column">
+    			<img src="meme2.jpg" alt="Forest" style="height:300px">
+  			</div>
+  			<div class="column">
+    			<img src="meme5.jpg" alt="Mountains" style="height:300px">
+  			</div>
+		</div>
+	</body>
 </html>
 
 
