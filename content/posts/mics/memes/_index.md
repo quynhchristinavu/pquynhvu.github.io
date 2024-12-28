@@ -35,16 +35,16 @@ header:
 </style>
 </head>  
 <body>
-    <h2> Place image side by side</h2>
+    <h2>Welcome to the world of memes!</h2>
 	<div class="container">
 	   <div class="column">
-	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
+	     <img src="meme1.jpg" height="300" width="250" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
+	     <img src="meme2.jpg" height="300" width="250" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
+	     <img src="meme5.jpg" height="300" width="250" alt="image1">
 	   </div>
 	</div>
 </body>
