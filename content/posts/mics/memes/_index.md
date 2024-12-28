@@ -52,18 +52,12 @@ header:
 	     <img src="meme4.jpg" height="300" width="250" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme3.jpg" height="350" width="250" alt="image1">
+	     <img src="meme3.jpg" height="300" width="250" alt="image1">
 	   </div>
 	</div>
 </body>
 </html> 
 
 <body>
-<p> <em> Last updated </em> </p>
-<p id="myId"></p> 
-<script> 
-var date = new Date(); 
-var p = document.getElementById("myId"); 
-p.innerHTML = date; 
-</script> 
+<p> <em> Last updated:</em> 28-12-2024 </p>
 </body>
