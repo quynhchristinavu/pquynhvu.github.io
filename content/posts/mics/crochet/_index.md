@@ -1,5 +1,5 @@
 ---
-title: 
+title: Crochet patterns
 date: 
 cms_exclude: true
 
@@ -15,8 +15,9 @@ header:
   caption: ""
   image: ""
 ---
-
-## Crochet patterns
+<body>
+<p> <em> Last updated on </em> 27 December, 2024 </p>
+</body>
 
 * Christmas peppermint pillows [[video]](https://www.youtube.com/watch?v=cbMhZ4kwLKk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=37) 
 
@@ -25,14 +26,3 @@ header:
 * Amigurumi heart [[video]](https://www.youtube.com/watch?v=vxn93raVYxg&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=13) 
 
 * Heart drawstring pouch [[video]](https://www.youtube.com/watch?v=oHcpY10i4Jk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=18) [[link]](https://www.ravelry.com/patterns/library/heart-drawstring-pouch)
-
-
-<body>
-<p> <em> Last updated </em> </p>
-<p id="myId"></p> 
-<script> 
-var date = new Date(); 
-var p = document.getElementById("myId"); 
-p.innerHTML = date; 
-</script> 
-</body>

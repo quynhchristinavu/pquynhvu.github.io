@@ -14,6 +14,10 @@ header:
   caption: ""
   image: ""
 ---
+<body>
+<p> <em> Last updated on </em> 28 December, 2024 </p>
+</body>
+
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,8 +61,3 @@ header:
 		</div>
 	</body>
 </html>
-
-
-<body>
-<p> <em> Last updated:</em> 28-12-2024 </p>
-</body>

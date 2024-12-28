@@ -1,5 +1,5 @@
 ---
-title: 
+title: Quotations
 date: 
 cms_exclude: true
 
@@ -15,8 +15,9 @@ header:
   caption: ""
   image: ""
 ---
-
-## Quotations
+<body>
+<p> <em> Last updated on </em> 27 December, 2024 </p>
+</body>
 
 * "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." - Samuel Beckett
 
@@ -61,13 +62,3 @@ header:
 * "There is something fascinating about science. One gets such wholesale returns of conjecture out of such a trifling investment of fact." - Mark Twain
 
 * "In my experience most mathematicians are intellectually lazy and especially dislike reading experimental papers." - Francis Crick
-
-<body>
-<p> <em> Last updated </em> </p>
-<p id="myId"></p> 
-<script> 
-var date = new Date(); 
-var p = document.getElementById("myId"); 
-p.innerHTML = date; 
-</script> 
-</body>

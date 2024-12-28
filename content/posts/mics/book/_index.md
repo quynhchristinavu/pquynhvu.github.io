@@ -15,6 +15,10 @@ header:
   image: ""
 ---
 
+<body>
+<p> <em> Last updated on </em> 27 December, 2024 </p>
+</body>
+
 ## Books I have read and would recommend
 
 * **Kane and Abel** by Jeffrey Archer
@@ -54,14 +58,3 @@ header:
 * **Snow Country** by Yasunari Kawabata
 
 * **Out of Africa** by Karen Blixen
-
-<body>
-<p> <em> Last updated </em> </p>
-<p id="myId"></p> 
-<script> 
-var date = new Date(); 
-var p = document.getElementById("myId"); 
-p.innerHTML = date; 
-</script> 
-</body>
-</body>
