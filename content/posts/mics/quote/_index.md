@@ -20,9 +20,13 @@ header:
 
 * "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." - Samuel Beckett
 
+* "There is a time to provide advice and offer an opinion, and there is a time not to. Don't be too quick to offer unsolicited advice. It certainly will not endear you to people." - Harvey Mackay
+
 * "When you fall throughout your life. Remember this: Fall forward." - Denzel Washington
 
 * "If it costs your peace it's too expensive." - Paulo Coelho
+
+* "Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary." - Steve Jobs
 
 * "He who dares not offend cannot be honest." - Thomas Paine
 
@@ -60,11 +64,10 @@ header:
 
 <body>
 <p> <em> Last updated </em> </p>
-<p id="demo"></p>
-
-<script>
-let text = document.lastModified;
-document.getElementById("demo").innerHTML = text;
-</script>
-
+<p id="myId"></p> 
+<script> 
+var date = new Date(); 
+var p = document.getElementById("myId"); 
+p.innerHTML = date; 
+</script> 
 </body>
