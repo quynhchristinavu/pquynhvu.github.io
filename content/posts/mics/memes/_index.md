@@ -21,27 +21,11 @@ header:
         <p style="text-align:center;"> </p>
     </div>
     <div style="float:left;margin-right:5px;">
-        <img class="middle-img" src="./meme2.jpg" height="300" width="250" />
+        <img src="./meme2.jpg" height="300" width="250"  />
         <p style="text-align:center;"> </p>
     </div>
     <div style="float:left;margin-right:5px;">
-        <img class="middle-img" src="./meme3.jpg" height="300" width="250" />
-        <p style="text-align:center;"> </p>
-    </div>
-    <div style="float:left;margin-right:5px;">
-        <img class="middle-img" src="./meme4.jpg" height="300" width="250" />
+        <img src="./meme3.jpg" height="300" width="250"  />
         <p style="text-align:center;"> </p>
     </div>
 </div>
-
-<br><br>
-
-<body>
-<p> <em> Last updated </em> </p>
-<p id="myId"></p> 
-<script> 
-var date = new Date(); 
-var p = document.getElementById("myId"); 
-p.innerHTML = date; 
-</script> 
-</body>
