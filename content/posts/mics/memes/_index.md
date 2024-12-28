@@ -21,10 +21,7 @@ header:
 	<style>
 		.column {
 	  		flex: 30%;
-	  		padding: 5px;
-		}
-		img {
-	  		width: 100%;
+	  		padding: 10px;
 		}
 		.container {
 	   		display: flex;
@@ -49,10 +46,10 @@ header:
 	     <img src="meme6.jpg" height="300" width="250" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme4.jpg" height="300" width="250" alt="image1">
+	     <img src="meme3.jpg" height="300" width="250" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme3.jpg" height="300" width="250" alt="image1">
+	     <img src="meme4.jpg" height="300" width="250" alt="image1">
 	   </div>
 	</div>
 </body>
