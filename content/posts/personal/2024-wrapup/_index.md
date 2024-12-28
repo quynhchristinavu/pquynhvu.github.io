@@ -15,6 +15,15 @@ header:
   image: ""
 ---
 
+<body>
+<p id="demo"></p>
+<script>
+  let text = document.lastModified;
+  document.getElementById("demo").innerHTML = text;
+</script>
+
+</body>
+
 <div style='text-align: justify' font-family: "Garamond", serif;>
 In this quiet pause before the rush, I'm grounding myself on what brought me here, from the highs to the lows. This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past years. The move was indeed deliberate, yet it took a while for the reality to sink in. Life moves fast.
 <br><br>
@@ -41,9 +50,7 @@ In this quiet pause before the rush, I'm grounding myself on what brought me her
 </body> 
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-I'm thankful from the bottom of my heart for all of those who held me accountable, taught me how to deal with difficult people in a professional manner, and supported me in your unique ways. Thank you, all.
-<br><br>
-Here's to holding space for what matters most.
+I'm thankful from the bottom of my heart for all of those who held me accountable, taught me how to deal with difficult people in a professional manner, and supported me in your unique ways. Here's to holding space for what matters most.
 </div>
 
 
