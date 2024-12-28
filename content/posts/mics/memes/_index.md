@@ -14,55 +14,18 @@ header:
   caption: ""
   image: ""
 ---
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
+<div class="images">
+  <img src="http://www.immersion-3d.com/wp-content/uploads/2015/12/image-placeholder-500x500.jpg">
+  <img src="http://www.immersion-3d.com/wp-content/uploads/2015/12/image-placeholder-500x500.jpg">
+  <img src="http://www.immersion-3d.com/wp-content/uploads/2015/12/image-placeholder-500x500.jpg">
+  <img src="http://www.immersion-3d.com/wp-content/uploads/2015/12/image-placeholder-500x500.jpg">
+</div>
 
-.column {
+.images img {
+  width: 100px;
+  height: 100px;
   float: left;
-  width: 33.33%;
-  padding: 5px;
 }
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<div class="row">
-	<div class="column">
-	    <img src="meme1.jpg" height="300px" style="width:250px height:300px" alt="image1">
-	</div>
-	<div class="column">
-	    <img src="meme2.jpg" style="width:250px height:300px" alt="image1">
-	</div>
-	<div class="column">
-	    <img src="meme5.jpg" style="width:250px height:300px" alt="image1">
-	</div>
-</div>
-
-<div class="container">
-	<div class="column">
-	    <img src="meme6.jpg" style="width:250px height:300px" alt="image1">
-	</div>
-	<div class="column">
-	    <img src="meme3.jpg" style="width:250px height:300px" alt="image1">
-	</div>
-	<div class="column">
-	    <img src="meme4.jpg" style="width:250px height:300px" alt="image1">
-	</div>
-</div>
-
-</body>
-</html>
 
 <body>
 <p> <em> Last updated:</em> 28-12-2024 </p>
