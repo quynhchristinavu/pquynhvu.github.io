@@ -16,7 +16,7 @@ header:
 ---
 
 <body>
-<p> <em> Posted on</em> 28-12-2024 </p>
+<p> <em> Posted on</em> 28 December, 2024 </p>
 </body>
 
 </body>
