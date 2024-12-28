@@ -17,16 +17,17 @@ header:
 ---
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past years. The move was indeed deliberate, yet it was not easy to accept at the time.
+This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past years. The move was indeed deliberate, yet it took a while for the reality to sink in. Life moves fast.
 <br><br>
-Life moves fast.
-<br><br>
-2024 taught me important lessons. 
+2024 taught me important lessons: 
 <br>
-I don't have to be everything to everyone or sacrifice my peace of mind to keep others happy; learning to set boundaries and put myself first without guilt was well worth it.
+</div>
+<p class="indent">
+I don't have to be everything to everyone and sacrifice my peace of mind to keep others happy; learning to set boundaries and put myself first without guilt was well worth it.
+</p>
 <br><br>
 A quiet pause before the rush and prepare for all that's yet to come. Here's to holding space to what matters most.
 <br><br>
 
 
-</div>
+
