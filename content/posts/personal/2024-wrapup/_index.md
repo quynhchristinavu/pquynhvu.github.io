@@ -22,12 +22,18 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 2024 taught me important lessons: 
 <br>
 </div>
-<p class="indent">
-I don't have to be everything to everyone and sacrifice my peace of mind to keep others happy; learning to set boundaries and put myself first without guilt was well worth it.
+
+<body> 
+<p style="margin-left: 1em;">  
+	I don't have to be everything to everyone and sacrifice my peace of mind to keep others happy; learning to set boundaries and put myself first without guilt was well worth it.
 </p>
+</body> 
+
+
 <br><br>
 A quiet pause before the rush and prepare for all that's yet to come. Here's to holding space to what matters most.
 <br><br>
+
 
 
 
