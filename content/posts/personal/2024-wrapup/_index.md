@@ -24,7 +24,7 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 
 <body> 
 <p style="margin-left: 1em;">  
-	<b> Don't sacrifice your peace of mind to keep others happy.</b> Learning to set boundaries and put yourself first without guilt will be well worth it.
+	<b> Don't sacrifice your peace of mind to please others.</b> Learning to set boundaries and put yourself first without guilt will be well worth it.
 </p>
 
 </body> 
@@ -37,7 +37,7 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 
 <body> 
 <p style="margin-left: 1em;">  
-  <b> Use your voice wisely, and don't let the bullies (yes, they do exist in academia!) oppress it so you can retain the ability to make your voice heard in the future.
+  <b> Stand up for yourself and others.</b> Use your voice wisely, and don't let the bullies (yes, they do exist in academia!) oppress it so you can retain the ability to make your voice heard in the future.
 </p>
 </body> 
 
