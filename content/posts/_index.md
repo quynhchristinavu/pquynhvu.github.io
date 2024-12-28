@@ -40,21 +40,21 @@ design:
 
 ## Science Communication
 
-* **27 December, 2024:** [Linear Programming and Healthy Meals at McDonald's](./SciComm/healthy-meals-McDonald/calorie_problem.html) 
+* **27 December, 2024:** [Linear programming and healthy meals at McDonald's](./SciComm/healthy-meals-McDonald/calorie_problem.html) 
 
 * **26 December, 2024:** [The three things you need to know for success in the 21st century](https://www.stat.berkeley.edu/~aldous/Misc/PBM.html) from Dr. David Aldous, Professor Emeritus at UC Berkeley Statistics and Affiliate Professor at UW Mathematics.
 
 * **21 December, 2024:** [Thoughts after finishing a Demography PhD](https://www.monicaalexander.com/posts/2018-23-05-demog_phd/) from Dr. Monica Alexander, Associate Professor in Statistical Sciences and Sociology at the University of Toronto.
 
-* **21 December, 2024:** [Collected Advice: Things people wish they knew from day 1 of their PhD](https://www.yaelcourtney.com/phdadvice) from Dr. Ya'el Courtney.
+* **21 December, 2024:** [Collected advice: Things people wish they knew from day 1 of their PhD](https://www.yaelcourtney.com/phdadvice) from Dr. Ya'el Courtney.
 
 ## Personal
 
 * **28 December, 2024:** [Thoughts and reflections as 2024 comes to a close](./personal/2024-wrapup/)
 
-* **TBD:** [My PhD Research Journey: The Intrigues, Rigour and Sense of Fulfillment](./personal/phd-journey/)
+* **TBD:** [My PhD research journey: The intrigues, rigour and sense of fulfillment](./personal/phd-journey/)
 
-* **TBD:** [My Journey to Graduate School](./personal/grad-school-journey/)
+* **TBD:** [My journey to graduate school](./personal/grad-school-journey/)
 
 ## Miscellaneous
 
@@ -64,4 +64,4 @@ design:
 
 * List of [books](./mics/book/) I read and love and those on my reading list.
 
-* [Academic memes](./memes/) I collect along the way.
+* [Academic memes](./mics/memes/) I collect along the way.

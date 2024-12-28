@@ -64,4 +64,3 @@ var p = document.getElementById("myId");
 p.innerHTML = date; 
 </script> 
 </body>
-</body>

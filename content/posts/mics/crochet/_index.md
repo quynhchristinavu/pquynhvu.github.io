@@ -29,11 +29,10 @@ header:
 
 <body>
 <p> <em> Last updated </em> </p>
-<p id="demo"></p>
-
-<script>
-let text = document.lastModified;
-document.getElementById("demo").innerHTML = text;
-</script>
-
+<p id="myId"></p> 
+<script> 
+var date = new Date(); 
+var p = document.getElementById("myId"); 
+p.innerHTML = date; 
+</script> 
 </body>
