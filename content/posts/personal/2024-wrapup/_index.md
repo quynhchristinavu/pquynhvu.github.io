@@ -17,6 +17,11 @@ header:
 ---
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
+With just a few more days until 2025, I'm grounding myself in what brought me here, from the highs to the lows. This year has been a wild ride; all of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past year.
+<br><br>
+Life moves fast.
+
+
 
 </div>
 
