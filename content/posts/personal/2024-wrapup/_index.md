@@ -32,7 +32,7 @@ Life moves fast.
 
 <body> 
 <p style="margin-left: 1em;">  
-	<b> Don't sacrifice my peace of mind to please others.</b> Learning to set boundaries and put myself first without guilt is well worth it.
+	<b> Don't sacrifice your peace of mind to please others.</b> Learning to set boundaries and put yourself first without guilt is well worth it.
 </p>
 </body> 
 
@@ -44,7 +44,7 @@ Life moves fast.
 
 <body> 
 <p style="margin-left: 1em;">  
-  <b> Stand up for myself and others.</b> Use my voice wisely, and don't let the bullies (yes, they do exist in academia!) oppress it so I can retain the right and the ability to make my voice heard in the future.
+  <b> Stand up for yourself and others.</b> Use your voice wisely, and don't let the bullies (yes, they do exist in academia!) oppress it so you can retain the right and the ability to make your voice heard in the future.
 </p>
 </body> 
 
