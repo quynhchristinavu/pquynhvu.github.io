@@ -21,7 +21,12 @@ header:
 	<style>
 		.column {
 	  		flex: 30%;
-	  		padding: 10px;
+	  		padding: 7px;
+		}
+		.images img {
+  			width: 250px;
+  			height: 300px;
+  			float: left;
 		}
 		.container {
 	   		display: flex;
@@ -32,24 +37,24 @@ header:
     <h2>Welcome to the world of memes!</h2>
 	<div class="container">
 	   <div class="column">
-	     <img src="meme1.jpg" height="300" width="250" alt="image1">
+	     <img src="meme1.jpg" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme2.jpg" height="300" width="250" alt="image1">
+	     <img src="meme2.jpg" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme5.jpg" height="300" width="250" alt="image1">
+	     <img src="meme5.jpg" alt="image1">
 	   </div>
 	</div>
 	<div class="container">
 	   <div class="column">
-	     <img src="meme6.jpg" height="300" width="250" alt="image1">
+	     <img src="meme6.jpg" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme3.jpg" height="300" width="250" alt="image1">
+	     <img src="meme3.jpg" alt="image1">
 	   </div>
 	   <div class="column">
-	     <img src="meme4.jpg" height="300" width="250" alt="image1">
+	     <img src="meme4.jpg" alt="image1">
 	   </div>
 	</div>
 </body>
