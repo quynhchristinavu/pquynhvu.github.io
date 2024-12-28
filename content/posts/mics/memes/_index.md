@@ -14,32 +14,21 @@ header:
   caption: ""
   image: ""
 ---
-<head>
-    <style>
-        .column {
-            float: left;
-            width: 30%;
-
-        }
-
-        img {
-            width: 80%
-        }
-    </style>
-</head>
-
-<body>
-    <div class="column">
-        <img src="meme1.jpg">
+</div>
+<div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <img src="/meme1.jpg" height="200" width="200"  />
+        <p style="text-align:center;">This is image 1</p>
     </div>
-    <div class="column">
-        <img src="meme2.jpg">
+    <div style="float:left;margin-right:5px;">
+        <img class="middle-img" src="./meme2.jpg" height="200" width="200" />
+        <p style="text-align:center;">This is image 2</p>
     </div>
-    <div class="column">
-        <img src="meme3.jpg">
+    <div style="float:left;margin-right:5px;">
+        <img src="./meme3.jpg" height="200" width="200" />
+        <p style="text-align:center;">This is image 3</p>
     </div>
-</body>
-
+</div>
 
 <body>
 <p> <em> Last updated </em> </p>
