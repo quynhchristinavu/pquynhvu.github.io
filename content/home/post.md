@@ -16,9 +16,9 @@ design:
   columns: '2'
 
 ---
-**28 December, 2024:** [Thoughts and reflections as 2024 comes to a close](./posts/personal/2024-wrapup/)
+**28 December, 2024:** [Thoughts and reflections as 2024 comes to a close](./posts/personal/2024-wrapup/).
 
-**27 December, 2024:** [Linear programming and healthy meals at McDonald's](./posts/SciComm/healthy-meals-McDonald/calorie_problem.html) 
+**27 December, 2024:** [Linear programming and healthy meals at McDonald's](./posts/SciComm/healthy-meals-McDonald/calorie_problem.html).
 
 **26 December, 2024:** [The three things you need to know for success in the 21st century](https://www.stat.berkeley.edu/~aldous/Misc/PBM.html) from Dr. David Aldous, Professor Emeritus at UC Berkeley Statistics and Affiliate Professor at UW Mathematics.
 

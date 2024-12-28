@@ -26,16 +26,16 @@ I'm particularly drawn to Bayesian statistics, which offers a fertile and solid 
 
 * Statistical inference in non-traditional settings (e.g., UQ in non-i.i.d. settings, sensitivity of posterior inference subject to data perturbation, assumption-free prediction, etc.)
 
-* Bayesian machine learning
+* Bayesian machine learning.
 
 I'm also open to learning more about 
 
 * Hierarchical, mixture and graphical models.
 
-* Optimal transport and statistical inference
+* Optimal transport and statistical inference.
 
-* Combinatorial optimization
+* Combinatorial optimization.
 
-* Non-parametric and distribution free statistics
+* Non-parametric and distribution-free statistics.
 
 ###### See all publications and ongoing research projects [here](./publications/).
