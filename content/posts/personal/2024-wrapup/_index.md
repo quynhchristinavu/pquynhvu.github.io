@@ -16,7 +16,7 @@ header:
 ---
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past years. The move was indeed deliberate, yet it took a while for the reality to sink in. Life moves fast.
+In this quiet pause before the rush, I'm grounding myself on what brought me here, from the highs to the lows. This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past years. The move was indeed deliberate, yet it took a while for the reality to sink in. Life moves fast.
 <br><br>
 2024 taught me important lessons: 
 <br><br>
@@ -26,7 +26,6 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 <p style="margin-left: 1em;">  
 	<b> Don't sacrifice your peace of mind to please others.</b> Learning to set boundaries and put yourself first without guilt will be well worth it.
 </p>
-
 </body> 
 
 <body> 
@@ -41,10 +40,11 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 </p>
 </body> 
 
+<div style='text-align: justify' font-family: "Garamond", serif;>
+I'm thankful from the bottom of my heart for all of those who held me accountable, taught me how to deal with difficult people in a professional manner, and supported me in your unique ways. Thank you, all.
 <br><br>
-A quiet pause before the rush and prepare for all that's yet to come. Here's to holding space to what matters most.
-<br><br>
-
+Here's to holding space for what matters most.
+</div>
 
 
 
