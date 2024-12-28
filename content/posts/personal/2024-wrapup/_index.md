@@ -15,12 +15,16 @@ header:
   image: ""
 ---
 
-<body>
-<p id="demo"></p>
-<script>
-  let text = document.lastModified;
-  document.getElementById("demo").innerHTML = text;
-</script>
+<p id="myId"></p> 
+<script> 
+var date = new Date(); 
+var dd = date.getDate(); 
+var mm = date.getMonth() + 1; 
+var yyyy = date.getFullYear(); 
+var newDate = dd + "-" + mm + "-" +yyyy; 
+var p = document.getElementById("myId"); 
+p.innerHTML = newDate; 
+</script> 
 
 </body>
 
