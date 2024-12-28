@@ -30,8 +30,6 @@ header:
 	.container {
 	   display: flex;
 	}
-
-	
 </style>
 </head>  
 <body>
@@ -48,6 +46,9 @@ header:
 	   </div>
 	</div>
 	<div class="container">
+	   <div class="column">
+	     <img src="meme6.jpg" height="300" width="250" alt="image1">
+	   </div>
 	   <div class="column">
 	     <img src="meme3.jpg" height="300" width="250" alt="image1">
 	   </div>
