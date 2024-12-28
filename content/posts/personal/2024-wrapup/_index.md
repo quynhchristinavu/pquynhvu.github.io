@@ -23,8 +23,8 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 </div>
 
 <body> 
-<p style="text-align: justify: 1em;">  
-	<em> Don't sacrifice your peace of mind to keep others happy.</em> Learning to set boundaries and put myself first without guilt was well worth it.
+<p style="margin-left: justify: 1em;">  
+	<em> Don't sacrifice your peace of mind to keep others happy.</em> Learning to set boundaries and put myself first without guilt is well worth it.
 </p>
 
 </body> 
@@ -35,6 +35,11 @@ This year has been a wild ride. All of a sudden I found myself in a small town a
 </p>
 </body> 
 
+<body> 
+<p style="margin-left: 1em;">  
+  <em> Stand up for yourself and others.</em> Use your voice wisely and don't let anyone oppress it so we can retain the ability to make your voice heard in the future.
+</p>
+</body> 
 
 <br><br>
 A quiet pause before the rush and prepare for all that's yet to come. Here's to holding space to what matters most.
