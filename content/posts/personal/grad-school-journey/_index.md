@@ -1,5 +1,5 @@
 ---
-title: My Journey to Graduate School
+title: My journey to graduate school
 
 cms_exclude: true
 
@@ -15,6 +15,10 @@ header:
   caption: ""
   image: ""
 ---
+
+<body>
+<p> <em> Posted on</em>  </p>
+</body>
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
 I'd never have envisioned myself as a Ph.D. student. As I entered college, I had no formal mentors to introduce me to the possibility of pursuing independent research through graduate training. But here I am, just wrapping up my first semester in the PhD program; while many things went better than expected, I also made quite a few mistakes. 
