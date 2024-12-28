@@ -35,10 +35,8 @@ header:
 </head>
 <body>
 
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with CSS Flexbox:</p>
 
-<div class="row">
+<div class="container">
   <div class="column">
     <img src="meme1.jpg" alt="Snow" style="width:100%">
   </div>
