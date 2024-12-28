@@ -15,11 +15,17 @@ header:
   image: ""
 ---
 
-<body>
-
-<img src="meme1.jpg" alt="HTML5 Icon" width="128" height="128">
-
-</body>
+<div class="row">
+  <div class="column">
+    <img src="meme1.jpg" alt="PhD life" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="meme2.jpg" alt="Green's Theorem" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="meme3.jpg" alt="et al" style="width:100%">
+  </div>
+</div>
 
 <body>
 <p> <em> Last updated </em> </p>
