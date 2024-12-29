@@ -40,6 +40,8 @@ design:
 
 ## Science Communication
 
+* **TBD:** [Child mortality vs. share of children immunized against diphtheria, pertussis, and tetanus, 2021](./SciComm/child-mortality-immunization/child-mortality.html).
+
 * **27 December, 2024:** [Linear programming and healthy meals at McDonald's](./SciComm/healthy-meals-McDonald/calorie_problem.html).
 
 * **26 December, 2024:** [The three things you need to know for success in the 21st century](https://www.stat.berkeley.edu/~aldous/Misc/PBM.html) from Dr. David Aldous, Professor Emeritus at UC Berkeley Statistics and Affiliate Professor at UW Mathematics.
