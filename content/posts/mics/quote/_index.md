@@ -21,6 +21,10 @@ header:
 
 * "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." - Samuel Beckett
 
+* "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." - Louis Pasteur
+
+* Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - Marie Curie
+
 * "There is a time to provide advice and offer an opinion, and there is a time not to. Don't be too quick to offer unsolicited advice. It certainly will not endear you to people." - Harvey Mackay
 
 * "When you fall throughout your life. Remember this: Fall forward." - Denzel Washington
@@ -31,7 +35,7 @@ header:
 
 * "He who dares not offend cannot be honest." - Thomas Paine
 
-* "We're what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
+* "We're what we repeatedly do. Excellence, then, is not an act, but a habit." - Greek philosopher and polymath Aristotle
 
 * "That which does not kill us makes us stronger." - Friedrich Nietzsche
 
@@ -45,7 +49,7 @@ header:
 
 * "Still waters run deep." - Latin proverb
 
-* "We can't learn without pain." - Aristotle
+* "We can't learn without pain." - Greek philosopher and polymath Aristotle
 
 * "Luck is what happens when preparation meets opportunity." - Roman philosopher Seneca
 
