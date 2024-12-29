@@ -7516,7 +7516,8 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Linear-Programming-and-Healthy-Meals-at-McDonald%E2%80%99s">Linear Programming and Healthy Meals at McDonald’s<a class="anchor-link" href="#Linear-Programming-and-Healthy-Meals-at-McDonald%E2%80%99s">¶</a></h1>
+<h1 id="Linear-Programming-and-Healthy-Meals-at-McDonald%E2%80%99s">Linear Programming and Healthy Meals at McDonald’s<a class="anchor-link" href="#Linear-Programming-and-Healthy-Meals-at-McDonald%E2%80%99s">¶</a></h1><p><em>Posted on</em> 27 December, 2024</p>
+<p>If you’re in the car on a long road trip, it's very likely you pass by a McDonald's. However, it's widely known that McDonald's menu is loaded with ultra-processed fast foods. Contrary to the general consensus, we found the “most balanced" order that minimizes the calorie intake while still at least reaching daily nutrient recommendations by linear programming.</p>
 </div>
 </div>
 </div>
@@ -7527,12 +7528,12 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h4 id="Data-(sourced-from-https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)">Data (sourced from <a href="https://www.kaggle.com/datasets/mcdonalds/nutrition-facts">https://www.kaggle.com/datasets/mcdonalds/nutrition-facts</a>)<a class="anchor-link" href="#Data-(sourced-from-https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)">¶</a></h4><p>There are:</p>
+<h4 id="Data">Data<a class="anchor-link" href="#Data">¶</a></h4><p>Source: <a href="https://www.kaggle.com/datasets/mcdonalds/nutrition-facts">https://www.kaggle.com/datasets/mcdonalds/nutrition-facts</a></p>
+<p>There are:</p>
 <ul>
 <li>260 food items available across 9 categories</li>
 <li>10 nutrition facts per item</li>
 </ul>
-<p><u>Goal</u>: Find the “most balanced" order that minimize the calories intake while still at least reaching daily nutrient recommendations.</p>
 </div>
 </div>
 </div>
@@ -7849,7 +7850,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Lagrangian $$L(x, u, v) = c^T x + u^T (Ax - b) + v^T (- x)$$</p>
+<h4 id="Lagrangian-$$L(x,-u,-v)-=-c%5ET-x-+-u%5ET-(Ax---b)-+-v%5ET-(--x)$$">Lagrangian $$L(x, u, v) = c^T x + u^T (Ax - b) + v^T (- x)$$<a class="anchor-link" href="#Lagrangian-$$L(x,-u,-v)-=-c%5ET-x-+-u%5ET-(Ax---b)-+-v%5ET-(--x)$$">¶</a></h4>
 </div>
 </div>
 </div>
@@ -7861,7 +7862,14 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Simplex Algorithm recommends the following items to eat healthy at McDonald's</p>
+<h4 id="Simplex-Algorithm">Simplex Algorithm<a class="anchor-link" href="#Simplex-Algorithm">¶</a></h4><ul>
+<li><p>is an approach to solving linear programming models by hand using slack variables, tableaus, and pivot variables as a means to finding the optimal solution of an optimization problem.</p>
+</li>
+<li><p>can be implemented in Python</p>
+</li>
+<li><p>recommends the following items to eat healthy at McDonald's</p>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -7982,9 +7990,51 @@ a.anchor-link {
 <td>1.000000</td>
 </tr>
 <tr>
-<th>114</th>
-<td>Diet Coke (Small)</td>
+<th>115</th>
+<td>Diet Coke (Medium)</td>
+<td>21 fl oz cup</td>
+<td>0</td>
+<td>1.000000</td>
+</tr>
+<tr>
+<th>116</th>
+<td>Diet Coke (Large)</td>
+<td>30 fl oz cup</td>
+<td>0</td>
+<td>1.000000</td>
+</tr>
+<tr>
+<th>117</th>
+<td>Diet Coke (Child)</td>
+<td>12 fl oz cup</td>
+<td>0</td>
+<td>1.000000</td>
+</tr>
+<tr>
+<th>122</th>
+<td>Diet Dr Pepper (Small)</td>
 <td>16 fl oz cup</td>
+<td>0</td>
+<td>1.000000</td>
+</tr>
+<tr>
+<th>123</th>
+<td>Diet Dr Pepper (Medium)</td>
+<td>21 fl oz cup</td>
+<td>0</td>
+<td>1.000000</td>
+</tr>
+<tr>
+<th>124</th>
+<td>Diet Dr Pepper (Large)</td>
+<td>30 fl oz cup</td>
+<td>0</td>
+<td>1.000000</td>
+</tr>
+<tr>
+<th>125</th>
+<td>Diet Dr Pepper (Child)</td>
+<td>12 fl oz cup</td>
 <td>0</td>
 <td>1.000000</td>
 </tr>
@@ -7996,51 +8046,9 @@ a.anchor-link {
 <td>0.501868</td>
 </tr>
 <tr>
-<th>136</th>
-<td>Dasani Water Bottle</td>
-<td>16.9 fl oz</td>
-<td>0</td>
-<td>1.000000</td>
-</tr>
-<tr>
-<th>137</th>
-<td>Iced Tea (Small)</td>
-<td>16 fl oz cup</td>
-<td>0</td>
-<td>1.000000</td>
-</tr>
-<tr>
-<th>138</th>
-<td>Iced Tea (Medium)</td>
-<td>21 fl oz cup</td>
-<td>0</td>
-<td>1.000000</td>
-</tr>
-<tr>
-<th>140</th>
-<td>Iced Tea (Child)</td>
-<td>12 fl oz cup</td>
-<td>0</td>
-<td>1.000000</td>
-</tr>
-<tr>
-<th>145</th>
-<td>Coffee (Small)</td>
-<td>12 fl oz cup</td>
-<td>0</td>
-<td>1.000000</td>
-</tr>
-<tr>
-<th>146</th>
-<td>Coffee (Medium)</td>
-<td>16 fl oz cup</td>
-<td>0</td>
-<td>1.000000</td>
-</tr>
-<tr>
-<th>147</th>
-<td>Coffee (Large)</td>
-<td>16 fl oz cup</td>
+<th>139</th>
+<td>Iced Tea (Large)</td>
+<td>30 fl oz cup</td>
 <td>0</td>
 <td>1.000000</td>
 </tr>
@@ -8062,7 +8070,7 @@ a.anchor-link {
 Fat: 100.0% 
 Saturated Fat: 128.0% 
 Cholesterol: 100.0% 
-Sodium: 120.0% 
+Sodium: 139.0% 
 Carbohydrates: 100.0% 
 Dietary Fiber: 100.0% 
 Vitamin A: 233.0% 
