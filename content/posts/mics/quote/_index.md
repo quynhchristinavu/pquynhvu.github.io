@@ -23,7 +23,7 @@ header:
 
 * "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." - Louis Pasteur
 
-* Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - Marie Curie
+* "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - Marie Curie
 
 * "There is a time to provide advice and offer an opinion, and there is a time not to. Don't be too quick to offer unsolicited advice. It certainly will not endear you to people." - Harvey Mackay
 
