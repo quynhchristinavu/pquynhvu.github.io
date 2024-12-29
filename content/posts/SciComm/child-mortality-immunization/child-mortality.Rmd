@@ -1,15 +1,52 @@
 ---
-title: "Child mortality vs. share of children immunized against diphtheria, pertussis, and tetanus, 2021"
+title: "Cross-country Literacy"
 author: "Quynh (Christina) Vu"
-date: "2024-12-29"
+date: ""
 output: 
-  html_document
+  html_document:
+    theme: spacelab
 ---
 
-```{r setup, include=FALSE}
-#knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include=FALSE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library (readr)
+library(tidyverse)
+library(brms)
+library(tidybayes)
+library(rvest)
 ```
 
-Data source: [United Nations Inter-agency Group for Child Mortality Estimation (2024)](https://ourworldindata.org/grapher/child-mortality-vs-share-of-children-immunized-against-diphtheria-pertussis-and-tetanus) 
+# Introduction
+
+Being able to read and write opens up the world of education and knowledge. When and why did more people become literate? How can progress continue?
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+literacy_data <- read.csv("https://raw.githubusercontent.com/pquynhvu/bayes/refs/heads/main/global-literacy-rate/cross-country-literacy-rates.csv")
+literacy_data <- literacy_data %>% rename("country" = "Entity",
+                                          "ISO_code" = "Code",
+                                          "year" = "Year",
+                                          "literacy-rate" = "Literacy.rate")
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+ISO_page <- read_html("https://cloford.com/resources/codes/index.htm")
+ISO_code <- ISO_page %>% html_nodes("p+ .outlinetable td:nth-child(7)") %>% html_text() 
+region <- ISO_page %>% html_nodes("p+ .outlinetable tr :nth-child(2)") %>% html_text()
+region <- region[-1]
+continent <- ISO_page %>% html_nodes("p+ .outlinetable td:nth-child(1)") %>% html_text() 
+ISO_data <- data.frame(ISO_code, region, continent)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+literacy_data <- left_join(literacy_data, ISO_data, by = "ISO_code")
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+head(literacy_data)
+```
+
+
+
+Data source: [United Nations Inter-agency Group for Child Mortality Estimation (2024)](https://ourworldindata.org/literacy) 
 
 Demographic estimation usually involves using some sort of model process or set of assumptions, no matter

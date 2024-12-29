@@ -40,7 +40,7 @@ design:
 
 ## Science Communication
 
-* **TBD:** [Child mortality vs. share of children immunized against diphtheria, pertussis, and tetanus, 2021](./SciComm/child-mortality-immunization/child-mortality.html).
+* **TBD:** Exploring Cross-country Literacy Statistics.
 
 * **27 December, 2024:** [Linear programming and healthy meals at McDonald's](./SciComm/healthy-meals-McDonald/calorie_problem.html).
 
@@ -52,9 +52,9 @@ design:
 
 ## Personal
 
-* **TBD:** [My PhD research journey: The intrigues, rigour and sense of fulfillment](./personal/phd-journey/).
+* **TBD:** My PhD research journey: The intrigues, rigour and sense of fulfillment.
 
-* **TBD:** [My journey to graduate school](./personal/grad-school-journey/).
+* **TBD:** My journey to graduate school.
 
 
 * **28 December, 2024:** [Thoughts and reflections as 2024 comes to a close](./personal/2024-wrapup/).
