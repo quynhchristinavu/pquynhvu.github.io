@@ -69,7 +69,7 @@ header:
     			<img src="meme8.jpg" alt="Forest" style="height:350px">
   			</div>
   			<div class="column">
-    			<img src="meme9.jpg" alt="Mountains" style="height:350px">
+    			<img src="meme9.jpeg" alt="Mountains" style="height:350px">
   			</div>
 		</div>
 	</body>
