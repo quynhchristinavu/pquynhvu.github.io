@@ -15,7 +15,7 @@ header:
   image: ""
 ---
 <body>
-<p> <em> Last updated on </em> 28 December, 2024 </p>
+<p> <em> Last updated on </em> 11 January, 2025 </p>
 </body>
 
 <html>
@@ -57,6 +57,19 @@ header:
   			</div>
   			<div class="column">
     			<img src="meme6.jpg" alt="Mountains" style="height:350px">
+  			</div>
+		</div>
+	</body>
+	<body>
+		<div class="row">
+  			<div class="column">
+    			<img src="meme7.jpg" alt="Forest" style="height:350px">
+  			</div>
+  			<div class="column">
+    			<img src="meme8.jpg" alt="Forest" style="height:350px">
+  			</div>
+  			<div class="column">
+    			<img src="meme9.jpg" alt="Mountains" style="height:350px">
   			</div>
 		</div>
 	</body>
