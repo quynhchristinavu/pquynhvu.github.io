@@ -22,7 +22,7 @@ header:
 </body>
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-In this quiet pause before the rush, I'm grounding myself on what brought me here, from the highs to the lows. This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, the city I called home for the past years. The move was indeed deliberate, yet it took a while for the reality to sink in. 
+In this quiet pause before the rush, I'm grounding myself on what brought me here, from the highs to the lows. This year has been a wild ride. All of a sudden I found myself in a small town across the border from Toronto, my second home. The move was indeed deliberate, yet it took a while for the reality to sink in. 
 <br><br>
 Life moves fast.
 <br><br>
@@ -49,7 +49,7 @@ Life moves fast.
 </body> 
 
 <div style='text-align: justify' font-family: "Garamond", serif;>
-I'm thankful from the bottom of my heart for all of those who held me accountable, taught me how to deal with difficult people in a professional manner, and supported me in your unique ways throughout this year and henceforth. Here's to holding space for what matters most.
+I'm thankful from the bottom of my heart for all of those who've held me accountable, taught me how to deal with difficult people in a professional manner, and supported me in your unique ways throughout this year and henceforth. Here's to holding space for what matters most.
 </div>
 
 <figure>
