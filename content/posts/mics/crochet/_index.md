@@ -16,8 +16,10 @@ header:
   image: ""
 ---
 <body>
-<p> <em> Last updated on </em> 27 December, 2024 </p>
+<p> <em> Last updated on </em> 12 January, 2025 </p>
 </body>
+
+* Granny square in circle [[video]](https://youtu.be/NsqWXDw5VKU?si=8ciDBh5uYDkyU_f8)
 
 * Flower coasters [[video]](https://youtu.be/MdOJBeI748U?si=G_wSuk6AgwvDLJkG)
 
