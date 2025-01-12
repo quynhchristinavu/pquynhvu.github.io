@@ -19,6 +19,10 @@ header:
 <p> <em> Last updated on </em> 27 December, 2024 </p>
 </body>
 
+* Flower coasters [[video]](https://youtu.be/MdOJBeI748U?si=G_wSuk6AgwvDLJkG)
+
+* Peppermint Swirl Pillow [[video]](https://youtu.be/jlJSA6zxwTo?si=TnnaTr8krH8JJJja)
+
 * Christmas peppermint pillows [[video]](https://www.youtube.com/watch?v=cbMhZ4kwLKk&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=37) 
 
 * Amigurumi strawberry [[video]](https://www.youtube.com/watch?v=2EVZciLaAFg&list=PLvzWNB_Nxz5upP4wx-QbhK5SIDc-ig_j7&index=31)
